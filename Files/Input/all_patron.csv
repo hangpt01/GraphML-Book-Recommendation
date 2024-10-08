@@ -1,0 +1,491 @@
+Ids,Lang,LastInteractive,Patrontype,Specicalize,Years,Majors,BirthDay,Barcode,Name,Address,Phonenumber,Email
+1,vie,,SV,,,,,DL0001,koha,,22233344455,thuthuy.duong99bn@gmail.com
+2,vie,,CB,,,,,selfcheck01,Selfcheck,,,
+3,vie,,CB,,,,,selfcheck02,Selfcheck,,,
+4,vie,,CB,F,,,,CB01,"Nguyễn Thị Hà",,,
+5,vie,,CB,M,,,,CB02,"Thân Văn Diễn",,,
+6,vie,,CB,M,,,,CB03,"Phạm Đình Chiến",,,
+7,vie,,CB,F,,,,CB06,"Mai Thị Trang",,,
+8,vie,,CB,F,,,,CB07,"Mai Thanh Huyền",,,
+9,vie,,CB,F,,,,CB08,"Bùi Thị Thúy Hằng",,,
+10,vie,,CB,F,,,,CB09,"Trần Thị Thu Hoài",,,
+11,vie,,CB,F,,,,CB10,"Đỗ Thị Vân Hoài",,,
+12,vie,,CB,M,,,,CB11,"Nguyễn Như Mạnh",,,
+13,vie,,CB,M,,,,CB12,"Trần Hoàng Anh",,,
+14,vie,,CB,F,,,,CB13,"Phan Thị Thư",,,
+15,vie,,HV,,,,,admin,Koha,,,admin@admin.co
+26,vie,,GS,F,,,17-07-77,01041001,"Phạm Thị Thu Hoài","78D5 Đô thị Đại Kim, Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội",,ptthoai@uneti.edu.vn
+27,vie,,GV,F,,,22-12-95,01029028,"Nguyễn Thị Khánh Huyền","Nhị Trai - Trùng Xá - Lương Tài - Bắc Ninh",,ntkhuyen@uneti.edu.vn
+28,vie,,GV,F,,,01-07-84,02005008,"Trịnh Thị Mai","19/15/48, Tô Hiến Thành, TP Nam Định",,ttmai@uneti.edu.vn
+29,vie,,GV,F,,,26-08-87,02005011,"Nguyễn Thị Hương","56 Huy Cận, Lộc Hạ, Nam định",,nthuong.ck@uneti.edu.vn
+30,vie,,GV,F,,,20-08-78,01029031,"Vũ Thị Phượng","Số nhà 5C khu Tt viện Ngô Phố Nguyễn Thái Học TT Phùng Đan Phượng Hà Nội",,vtphuong@uneti.edu.vn
+31,vie,,GV,F,,,04-02-85,01046002,"Hoàng Thị Minh Châu","Số 9B, phố Hương Viên, Phường Đồng Nhân, Quận Hai Bà Trưng, Thành phố Hà Nội",,htmchau@uneti.edu.vn
+32,vie,,GV,F,,,07-10-76,01027002,"Trần Thị Lan Anh","P801, Tòa 19T6 Kiến Hưng, Phường Kiến Hưng, Quận Hà Đông, Thành phố Hà Nội",,ttlanh@uneti.edu.vn
+33,vie,,GV,F,,,05-01-88,01027021,"Trần Minh Đức","1/2 căn 42 tổ 32 khu 8 tập thể Dệt vải công nghiệp, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,ductm@uneti.edu.vn
+34,vie,,GV,F,,,11-11-87,01027020,"Điền Thị Hồng Hà","Căn hộ 2302 Tòa CT2B chung xư Gelexia Riverside ngõ 885 Tam Trinh",,dthha@uneti.edu.vn
+35,vie,,GV,F,,,15-09-82,01027011,"Vũ Mỹ Hạnh","Số 10, Thịnh Yên, Phường Phố Huế, Quận Hai Bà Trưng, Thành phố Hà Nội",,vmhanh@uneti.edu.vn
+36,vie,,GV,F,,,02-03-78,01027016,"Doãn Thị Thuý Hiền","P203 CT1A , Phường Xuân La, Quận Tây Hồ, Thành phố Hà Nội",,dtthien@uneti.edu.vn
+37,vie,,GV,F,,,09-03-83,01027003,"Nguyễn Thu Hiền","130 Nguyễn Đức Cảnh, Tương Mai, Hoàng Mai, Hà Nội",,nthien@uneti.edu.vn
+38,vie,,GV,F,,,22-10-87,01027005,"Lê Thị Thu Hiền","P410, Nhà 15T2, 310 Minh Khai, Hai Bà Trưng, Hà Nội",,ltthien@uneti.edu.vn
+39,vie,,GV,F,,,25-07-73,01027017,"Lương Thị Thảo Hiếu","p 907, CT1, cc@homes, 987 Tam Trinh, Hoàng Mai, Hn",,ltthieu@uneti.edu.vn
+40,vie,,GV,F,,,08-07-78,01027010,"Lê Thị Kiều Oanh","Smile, Định Công, Hoàng Mai, Hà Nội",,ltkoanh@uneti.edu.vn
+41,vie,,GV,F,,,17-11-86,01027022,"Phạm Thị Thuỳ","số 24, ngách 213/50, ngõ 213 phố Lạc Nghiệp,Thanh Nhàn, Hai Bà Trưng, Hà Nội",,ptthuy.cntt@uneti.edu.vn
+42,vie,,GV,F,,,21-11-81,02003002,"Trần Thị Hương","2A/79 - Trương Hán Siêu, Khu Đô thị Hòa Vượng, Phường Lộc Hòa, TP Nam Định",,tthuong@uneti.edu.vn
+43,vie,,GV,F,,,17-07-82,02003006,"Hoàng Thị Phượng","Sô 27 ngõ 6 Đặng Văn Ngữ, Trung Tự, Đống Đa, Hà Nội",,htphuong@uneti.edu.vn
+44,vie,,GV,F,,,12-11-81,02003003,"Trần Bích Thảo","11 ngõ 1 Lã Xuân Oai - Hạ Long, Tp Nam Định",,tbthao@uneti.edu.vn
+45,vie,,GV,F,,,21-01-88,01027036,"Nguyễn Thùy Dung","Nhà 19- tổ 11- Khu Bãi- Phường Thanh Trì- Quận Hoàng Mai, Hà Nội.",,ntdung@uneti.edu.vn
+46,vie,,GV,F,,,13-02-84,02003027,"Lê Thị Mừng","Bồi Tây, Xã Mỹ Phúc, Huyện Mỹ Lộc, Tỉnh Nam Định",,ltmung@uneti.edu.vn
+47,vie,,TS,F,,,03-12-77,01023005,"Đặng Thị Thanh Quyên","55/53 phố Vũ Xuân Thiều, Phường Sài Đồng, Quận Long Biên, Thành phố Hà Nội",,dttquyen@uneti.edu.vn
+48,vie,,TS,F,,,08-02-81,01026004,"Nguyễn Thị Mai Hương","nhà số 5/ngõ 103 đường Giáp Bát, Giáp Bát, Hoàng Mai, Hà Nội",,ntmhuong@uneti.edu.vn
+49,vie,,GV,F,,,20-08-83,01023002,"Mai Thị Vân Anh","Số nhà 4 ngách 158/2, Hoàng Văn Thái, Phường Khương Mai, Quận Thanh Xuân, Thành phố Hà Nội",,mtvanh@uneti.edu.vn
+50,vie,,TS,F,,,09-02-81,02002004,"Nguyễn Thị Hiền","12- Đường trương Hán Siêu - Khu đô thị Hòa Vượng, Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",,hiennt@uneti.edu.vn
+51,vie,,TS,F,,,21-03-80,01026002,"Lê Minh Châu","số 47 ngách 29/16 Khương Hạ, Khương Đình, Thanh Xuân, Hà Nội",,lmchau@uneti.edu.vn
+52,vie,,TS,F,,,12-08-80,01026012,"Đỗ Thị Kim Loan","Khu tập thể trường CĐ Công nghệ và Kinh tế Hà Nội, Đông Xuân, Sóc Sơn, Hà Nội",,dtkloan@uneti.edu.vn
+53,vie,,GV,F,,,01-09-80,02002002,"Phạm Thị Thu","80,Đặng Đoàn Bằng, Phường Thống Nhất, Thành phố Nam Định, Tỉnh Nam Định",,ptthu.cntp@uneti.edu.vn
+54,vie,,GV,F,,,13-09-83,02002006,"Phan Thị Thanh Hương","178 Trần Huy Liệu, Phường Trường Thi, Thành phố Nam Định, Tỉnh Nam Định",,ptthuong@uneti.edu.vn
+55,vie,,GV,F,,,02-11-83,02002005,"Trần Thị Thúy Quỳnh","2511B chung cư Đồng Phát, phường Vĩnh Hưng, Hoàng Mai, Hà Nội",,tttquynh@uneti.edu.vn
+56,vie,,GV,F,,,04-09-84,01026008,"Vũ Thị Thu Hà","26/7 ngõ 39 đường Đại Đồng, phường Thanh Trì, Hoàng Mai, Hà Nội",,vttha@uneti.edu.vn
+57,vie,,GV,F,,,20-08-85,01026007,"Nguyễn Thị Chà","Thôn Dộc, Xã Bình Minh, Huyện Thanh Oai, Thành phố Hà Nội",,ntcha@uneti.edu.vn
+58,vie,,GV,F,,,19-03-68,01001004,"Tạ Thị Ngọc Dung","Số nhà 44, ngõ 1, phố Phan Đình giót , Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội",,ttndung@uneti.edu.vn
+59,vie,,GV,F,,,15-02-73,02025007,"Đỗ Thị Tuyết Lan","27A-Hoàng Văn Thụ , Phường Phan Đình Phùng, Thành phố Nam Định, Tỉnh Nam Định",,dttlan@uneti.edu.vn
+60,vie,,TS,F,,,12-01-68,01001003,"Nguyễn Thị Thảo","Số nhà 31 ngõ 179/64 phố Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai B12, Thành phố Hà Nội",,ntthao@uneti.edu.vn
+61,vie,,GV,F,,,23-07-69,01001013,"Đặng Thị Kim Hoa","Số 4 ngõ 2, đường Đê Tô Hoàng, Phường Cầu Dền, Quận Hai Bà Trưng, Thành phố Hà Nội",,dtkhoa@uneti.edu.vn
+62,vie,,GV,F,,,29-05-78,01001005,"Nguyễn Thị Thu Lan","310B nhà A Tập thể 170 phố Hồng Mai, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Thành phố Hà Nội",,nttlan@uneti.edu.vn
+63,vie,,GV,F,,,31-08-79,01001007,"Nguyễn Thị Thuỳ","29 ngách 179/187 Vĩnh Hưng, phường Vĩnh Hưng, quận Hoàng Mai, Hà nội",,ntthuy2013@uneti.edu.vn
+64,vie,,GV,F,,,11-02-75,01001011,"Bùi Thanh Hương","Phòng 109 A14 Tập thể Đại học Kinh tế Quốc dân, Ngõ 100 Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",,bthuong@uneti.edu.vn
+65,vie,,GV,F,,,18-08-72,01001001,"Lê Thị Tâm Thanh","số 33, ngõ 441, đường Lĩnh Nam, quận Hoàng Mai, HN",,lttthanh@uneti.edu.vn
+66,vie,,GV,F,,,10-03-82,01001016,"Trần Thanh Hải","P 201 tt xi măng cung ứng vật tư , Phường Quang Trung , Quận Đống Đa, Thành phố Hà Nội",,tthai@uneti.edu.vn
+67,vie,,GV,F,,,09-09-70,01001010,"Trần Thị Thu Hà","Số 556B- E3, Phường Tân Mai, Quận Hoàng Mai, Thành phố Hà Nội",,tttha@uneti.edu.vn
+68,vie,,GV,F,,,17-09-77,01001014,"Đặng Thị Lý","Số 17 ngõ 46- Xóm lẻ-Tân Triều- Thanh Trì- Hà Nội",,dtly@uneti.edu.vn
+69,vie,,GV,F,,,12-03-80,01001018,"Đỗ Thị Lan","Số 51 Ngõ 54 Tổ 10 Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội",,dtlan@uneti.edu.vn
+70,vie,,GV,F,,,23-02-76,02025012,"Bùi Thị Thu Hiền","10N Ô19, Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,btthien@uneti.edu.vn
+71,vie,,GV,F,,,31-05-77,02025013,"Nguyễn Thị Lan Anh","Số 10/18/3 đường Nguyễn Thế Rục , Phường Văn Miếu, Thành phố Nam Định, Tỉnh Nam Định",,ntlanh@uneti.edu.vn
+72,vie,,GV,F,,,17-06-83,01001023,"Nguyễn Thu Thủy","A3P4 Tập thể sợi C, đường Nguyễn Văn Trỗi, Phường Năng Tĩnh, Thành phố Nam Định, Tỉnh Nam Định",,ntthuy.dm@uneti.edu.vn
+73,vie,,GV,F,,,06-02-82,01001027,"Nguyễn Thị Hòa","Số 02, Lương Ngọc Quyến, P. Trần Quang Khải, TP Nam Định",,nthoa.dm@uneti.edu.vn
+74,vie,,GV,F,,,24-04-87,01001028,"Quách Thùy Dương","Tổ dân phố 5, Phường Phú La, Quận Hà Đông, Hà Nội",,qtduong@uneti.edu.vn
+75,vie,,GV,F,,,10-11-96,01001034,"Đào Thị Tình","Tổ dân phố Kem, Thị trấn Nham Biền, Huyện Yên Dũng, Bắc Giang",,dttinh@uneti.edu.vn
+76,vie,,GV,F,,,15-01-01,01001035,"Phùng An Như","Thôn Kiến Phong - Xã Gia Tường - huyện Nho Quan - tỉnh Ninh Bình",,panhu@uneti.edu.vn
+77,vie,,GS,F,,,02-12-79,01004005,"Võ Thu Hà","Số 12, Dãy 37 tập thể Đại học Bách Khoa Hà Nội, Phường Bách Khoa, Quận Hai Bà Trưng, Thành phố Hà Nội",,vtha@uneti.edu.vn
+78,vie,,GV,F,,,30-07-82,01004008,"Nguyễn Hải Bình","Phòng 1012 – OCT2 – ĐN3 Bắc Linh Đàm, Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội",,nhbinh@uneti.edu.vn
+79,vie,,GV,F,,,19-06-83,01004013,"Đinh Thị Hằng","Phòng 814-CT4 Khu Đô thị Đặng Xá, Xã Cổ Bi, Huyện Gia Lâm, Thành phố Hà Nội",,dthang@uneti.edu.vn
+80,vie,,GV,F,,,30-03-82,02028006,"Lê Thị Hoàn","5/88 Trần Bích San, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,lthoan@uneti.edu.vn
+81,vie,,GV,F,,,17-08-87,02028011,"Vũ Thị Tố Linh","34/359 Trần Hưng Đạo, Phường Bà Triệu, Thành phố Nam Định, Tỉnh Nam Định",,vttlinh@uneti.edu.vn
+82,vie,,GV,F,,,28-06-90,01004029,"Nguyễn Thị Thành","Sở Hạ, Xã Ninh Sở, Huyện Thường Tín, Thành phố Hà Nội",,ntthanh.ddt@uneti.edu.vn
+83,vie,,GV,F,,,31-05-90,01004055,"Đặng Thị Tuyết Minh","Chung cư Lộc Ninh, Thị trấn Chúc Sơn, Chương Mỹ, Hà Nội",,dttminh@uneti.edu.vn
+84,vie,,GV,F,,,07-07-90,01004056,"Nguyễn Thùy Dung","HH2A1009 - CC Ecolake view, 32 Đại Từ, Đại Kim, Hoàng Mai, Hà Nội",,thuydung@uneti.edu.vn
+85,vie,,GV,F,,,20-01-83,01004060,"Thân Thị Thương","Số 90 ngõ 34/56 đường Vĩnh Tuy-Hai Bà Trưng-Hà Nội",,ttthuong.dien@uneti.edu.vn
+86,vie,,GV,F,,,31-10-94,01004058,"Trần Thúy Quỳnh","Số 5 ngách 131/3 ngõ 69a Hoàng Văn Thái, Khương Mai, Thanh Xuân, Hà Nội",,ttquynh.dien@uneti.edu.vn
+87,vie,,GV,F,,,19-10-96,01004061,"Nguyễn Thị Hiên","Số 198 Nam Dư, Lĩnh Nam, Hoàng Mai, Hà Nội",,nthien.dien@uneti.edu.vn
+88,vie,,GV,F,,,26-10-97,01004059,"Phạm Thị Giang","99 Nguyễn Chí Thanh- Đống Đa- Hà Nội",,ptgiang@uneti.edu.vn
+89,vie,,GV,F,,,12-11-98,01004064,"Nguyễn Thị Thu Yến","122 phố Đông Thiên - Lĩnh Nam - Hoàng Mai - Hà Nội",,nttyen@uneti.edu.vn
+90,vie,,GV,F,,,08-08-96,01004068,"Chu Thị Thúy","Thôn 3 - Quảng Đức - Quảng Xương - Thanh Hóa",,ctthuy@uneti.edu.vn
+91,vie,,GV,F,,,28-11-89,01004070,"Trịnh Thị Hậu","Thôn Phú Lễ Thượng - xã Tự Tân - huyện Vũ Thư - tỉnh Thái Bình",,tthau@uneti.edu.vn
+92,vie,,TS,F,,,01-03-82,01004020,"Nguyễn Thị Hồng Nhung","Số 1, hẻm 1/34/17, Phan Đình Giót",,nthnhung@uneti.edu.vn
+93,vie,,GV,F,,,18-09-82,01004018,"Nguyễn Mai Anh","7/128 ngõ Gốc Đề, , Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội",,nmanh@uneti.edu.vn
+94,vie,,GV,F,,,25-04-78,01004015,"Đặng Thị Hương Giang","15, ngõ 177/40 Thanh Đàm, Phường Thanh Trì, Quận Hoàng Mai, Thành phố Hà Nội",,dthgiang@uneti.edu.vn
+95,vie,,GV,F,,,06-07-78,02028016,"Phạm Thị Thu Hà","97 đường 19-05, Trần Tế Xương, Thành phố Nam Định, tỉnh Nam Định",,pttha@uneti.edu.vn
+96,vie,,GV,F,,,01-10-78,02028015,"Trần Thị Hường","498-Vũ trọng phụng, Phường Thống Nhất, Thành phố Nam Định, Tỉnh Nam Định",,huongtt@uneti.edu.vn
+97,vie,,GV,F,,,28-08-89,01004028,"Bùi Thị Phượng","Xóm 7, thôn Văn Tảo, Xã Hải Đường, Huyện Hải Hậu, Tỉnh Nam Định",,btphuong@uneti.edu.vn
+98,vie,,TS,F,,,11-12-85,01055003,"Trần Thị Thu Hường","Phòng 2705, HH03A, Ecolakeview, 32 Đại Từ, Đại Kim, Hoàng Mai, Hà Nội",,ttthuong.kdt@uneti.edu.vn
+99,vie,,GV,F,,,30-10-93,01055001,"Trần Thu Hương","Xóm 2, Xã Yên Mỹ, Huyện Thanh Trì, Thành phố Hà Nội",,tthuong.khoadt@uneti.edu.vn
+100,vie,,GV,F,,,12-12-97,02056001,"Bùi Thị Nhi","54 Xuân Đỗ - Cự Khối - Long Biên - Hà Nội",,btnhi@uneti.edu.vn
+101,vie,,GV,F,,,30-10-80,01055005,"Trần Thị Hường","Căn A0206, cc Valencia garden, CT19B, KĐT Việt Hưng, Giang Biên, Long Biên, Hà Nội",,tthuong.kdt@uneti.edu.vn
+102,vie,,GV,F,,,24-01-88,02037009,"Trần Thị Phương Thảo","9/29/179 Vĩnh Hưng, Tổ 26, Phường Vĩnh Hưng, Hoàng Mai, Hà Nội",,ttpthao@uneti.edu.vn
+103,vie,,GV,F,,,02-07-87,01013014,"Đỗ Thị Huyền Trang","2720-CT1, Phường La Khê, Quận Hà Đông, Thành phố Hà Nội",,dthtrang@uneti.edu.vn
+104,vie,,GV,F,,,26-04-93,01013019,"Bùi Lệ Thu","Số 108 nhà B2 ngõ 195 D Đội Cấn, Đội Cấn, Ba Đình, Hà Nội",,blthu.gdtcqp@uneti.edu.vn
+105,vie,,GV,F,,,05-02-94,01013020,"Nguyễn Thị Thảo Mai","Phòng 1006 HH2B, Tổ 36, Hoàng Liệt, Hoàng Mai, Hà Nội",,nttmai@uneti.edu.vn
+106,vie,,TS,F,,,01-09-77,01006019,"Đinh Thị Kim Xuyến","P2505 S208 VinOcean Park, Đa Tốn, Gia Lâm, Hà Nội",,dtkxuyen@uneti.edu.vn
+107,vie,,TS,F,,,06-12-80,01006008,"Hoàng Thu Hiền","34M, Ngõ 218, đường Lạc Long Quân, Bưởi, Tây Hồ, Hà Nội",,hthien@uneti.edu.vn
+108,vie,,TS,F,,,07-06-70,01006002,"Nguyễn Ngọc Lan","Căn hộ 105 TT Bưu Điện, Ngõ 5 Láng Hạ, Thành Công, Ba Đình, Hà Nội",,nnlan@uneti.edu.vn
+109,vie,,TS,F,,,12-12-80,01006007,"Nguyễn Thị Ngọc Lan","P311-Nhà T1- Khu Tập thể Bộ LĐTB và XH, Phường Phương Mai, Quận Đống Đa, Thành phố Hà Nội",,ntnlan@uneti.edu.vn
+110,vie,,GV,F,,,08-06-76,01006004,"Nguyễn Thị Tô Phượng","Số nhà 17, ngõ 191A/5, phố Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",,nttphuong@uneti.edu.vn
+111,vie,,GV,F,,,24-12-83,02030003,"Trần Thị Thanh Thuý","Số 50, đường Hùng Vương, Phường Vị Xuyên, Thành phố Nam Định, Tỉnh Nam Định",,thuyttt@uneti.edu.vn
+112,vie,,TS,F,,,29-01-76,01006018,"Hoàng Thị Phương Lan","Số 1/66/71 Phố Hoàng Văn Thái, Phường Khương Trung, Quận Thanh xuân, Thành phố Hà Nội",,htplan@uneti.edu.vn
+113,vie,,TS,F,,,05-08-76,02030001,"Trần Thị Thắm","P107/ 9 Phố Trung Liệt, quận Đống Đa, TP Hà Nội",,tttham@uneti.edu.vn
+114,vie,,GV,F,,,08-01-80,01006009,"Vũ Thị Vân Anh","Số nhà 343, Nguyễn Trãi, Thanh Xuân Trung, Thanh Xuân, Hà Nội",,vtvanh@uneti.edu.vn
+115,vie,,GV,F,,,09-09-76,01006011,"Lê Thị Bình","502N10 TT212 HVKTQS Tân Xuân, Xuân Đỉnh, Bắc Từ Liêm, HN",,ltbinh@uneti.edu.vn
+116,vie,,GV,F,,,08-11-84,02030008,"Vũ Thị Diệp","Số 11, Ngõ 259 Vĩnh Hưng, tổ 4 Vĩnh Hưng, Phường Vĩnh Hưng, Quận Hoàng Mai, TP Hà Nội",,vtdiep@uneti.edu.vn
+117,vie,,GV,F,,,15-08-90,01006059,"Nguyễn Thị Dung","Tổ 2 Phúc Lợi, Long Biên, Hà Nội",,ntdung.kt@uneti.edu.vn
+118,vie,,GV,F,,,20-11-83,01008013,"Vũ Thị Duyên","C1202 Ecocity Việt Hưng Long Biên Hà Nội",,vtduyen@uneti.edu.vn
+119,vie,,GV,F,,,30-07-86,02030034,"Nguyễn Hoàng Giang","Số 17, Ngõ 59 Phạm Thế Lịch, Phường Lộc Hạ, TP Nam Định, Tỉnh Nam Định",,nhgiang@uneti.edu.vn
+120,vie,,GV,F,,,10-08-79,01006020,"Trần Thị Ngọc Hà","SN 49 phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội",,ttnha@uneti.edu.vn
+121,vie,,GV,F,,,02-08-79,02030002,"Nguyễn Thị Thu Hà","22/12/70 Trần Đăng Ninh, thành phố Nam Định",,nttha@uneti.edu.vn
+122,vie,,TS,F,,,02-07-80,01006016,"Nguyễn Thị Thu Hằng","Số 2B- Ngõ 31 Phố Dịch Vọng, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội",,thuhang@uneti.edu.vn
+123,vie,,GV,F,,,15-01-78,02030006,"Nguyễn Thị Hằng","241 Trần Nhân Tông, Phường Ngô Quyền, Thành phố Nam Định, Tỉnh Nam Định",,nthang@uneti.edu.vn
+124,vie,,GV,F,,,19-11-86,02030011,"Nguyễn Thuý Hằng","CT3ax2 Bắc Linh Đàm, Quận Hoàng Mai, Thành phố Hà Nội",,thuyhang@uneti.edu.vn
+125,vie,,GV,F,,,21-09-90,01006060,"Mai Thanh Hằng","Số 134 ngõ 180 Nguyễn Lương Bằng, Đống Đa, Hà Nội",,mthang@uneti.edu.vn
+126,vie,,GV,F,,,24-12-90,01006061,"Phùng Thị Hiền","68/79/47 Nguyễn Văn Linh, Thạch Bàn, Long Biên, Hà Nội",,pthien.kt@uneti.edu.vn
+127,vie,,GV,F,,,24-01-87,01006030,"Lê Thị Hòa","CH1503A1, cc Ruby CT3 Phúc Lợi, Long Biên, Hà Nội",,lthoa@uneti.edu.vn
+128,vie,,GV,F,,,18-03-90,02030021,"Nguyễn Thị Thanh Hoài","Ngõ 5- Nguyễn Thái Học- Phường Văn Miếu- TP Nam Định",,ntthoai@uneti.edu.vn
+129,vie,,GV,F,,,10-01-88,01006035,"Lưu Thị Hoan","Số 49, ngõ 322, Lê Trọng Tấn, Phường Khương Mai, Quận Thanh Xuân, Thành phố Hà Nội",,hoanlt@uneti.edu.vn
+130,vie,,GV,F,,,07-03-88,02030017,"Nguyễn Thị Hoàn","Căn 10s2, Tòa Happy star. Số 1, Đ. Mai Chí Thọ - P. Giang Biên- Q. Long Biên - TP. Hà Nội",,nthoan@uneti.edu.vn
+131,vie,,GV,F,,,27-06-77,01006005,"Nguyễn Thị Thanh Hương","Số 23 ngõ 61 Vạn Phúc, Hà Đông, Hà Nội",,ntthuong@uneti.edu.vn
+132,vie,,GV,F,,,19-09-81,01008012,"Hoàng Thị Hường","Căn 2015 toà NO3 chung cư 87 Lĩnh Nam Hoàng Mai Hà Nội",,hthuong@uneti.edu.vn
+133,vie,,GV,F,,,27-07-82,01006026,"Nguyễn Thanh Huyền","P5 K4 Tập thể Bách Khoa, Bách Khoa, Hai Bà Trưng, Hà Nội",,huyennt@uneti.edu.vn
+134,vie,,GV,F,,,14-01-84,01006036,"Đinh Thị Thùy Liên","17T4 Trung Hoà Nhân Chính,Nhân Chính, Thanh Xuân, Hà Nội",,dttlien@uneti.edu.vn
+135,vie,,GV,F,,,21-05-87,01006047,"Nguyễn Thùy Linh","Số 38, ngõ 94, Ngọc Khánh, Phường Giảng Võ, Quận Ba Đình, Thành phố Hà Nội",,ntlinh.kt@uneti.edu.vn
+136,vie,,GV,F,,,03-04-89,02030025,"Trần Thị Luận","160B Vĩnh Trường, Lộc Vượng, TP.Nam Định",,ttluan@uneti.edu.vn
+137,vie,,GV,F,,,18-01-84,02030009,"Đặng Thị Mây","4/4, ngõ Hồng Gai, Đường Bến Ngự, Tổ 18, P Phan Đình Phùng,TP Nam Định, Tỉnh Nam Định",,dtmay@uneti.edu.vn
+138,vie,,GV,F,,,18-03-87,01006048,"Phạm Thị Mỵ","Phòng 2802 - CT6B, Chung cư Bemes, Phường Kiến Hưng, Quận Hà Đông, Thành phố Hà Nội",,ptmy@uneti.edu.vn
+139,vie,,GV,F,,,10-11-75,01006010,"Trần Bích Nga","Chung cư 129 Đường Trương Định - Hai Bà Trưng - Hà Nội",,tbnga@uneti.edu.vn
+140,vie,,GV,F,,,14-02-89,02030018,"Lương Thị Nga","25/102 Mạc Thị Bưởi, Phường Thống Nhất, Thành phố Nam Định, Tỉnh Nam Định",,ltnga@uneti.edu.vn
+141,vie,,GV,F,,,19-10-90,01006049,"Trần Thu Nga","614 Nguyễn Văn Cừ-Tổ 15, Phường Gia Thụy, Quận Long Biên, Thành phố Hà Nội",,ttnga@uneti.edu.vn
+142,vie,,GV,F,,,04-10-89,01006034,"Nguyễn Thị Nguyệt","Căn hộ P5.2608 - Tòa Park 5, KĐT Times City Park Hill, số 25, ngõ 13, đường Lĩnh Nam, Phương Mai Động, Quận Hoàng Mai, Hà Nội",,ntnguyet@uneti.edu.vn
+143,vie,,GV,F,,,15-10-87,01006050,"Trương Thị Nhung","SN 23, ngõ 152 Thúy Lĩnh, Lĩnh Nam, HM, HN",,ttnhung@uneti.edu.vn
+144,vie,,GV,F,,,16-05-84,02030010,"Lê Thị Oanh","5/183, Đường Bái, Phường Lộc Vượng, TP Nam Định, Tỉnh Nam Định",,ltoanh@uneti.edu.vn
+145,vie,,GV,F,,,05-10-86,02030019,"Trần Thị Quyên","Số 15 Đường Trần Nguyên Đán - Phường Lộc Hoà - TP Nam Định",,ttquyen@uneti.edu.vn
+146,vie,,GV,F,,,16-07-90,02030026,"Tăng Thị Bích Quyên","10/11/16 Đường Kênh - Phường Cửa Bắc - TP Nam Định",,ttbquyen@uneti.edu.vn
+147,vie,,GV,F,,,20-03-90,02030027,"Nguyễn Thị Sâm","4B, đường Trần Quang Khải,  phường Trần Quang Khải, TP Nam Định, Nam Định",,ntsam@uneti.edu.vn
+148,vie,,GV,F,,,03-07-83,01006021,"Mai Thị Sen","P2006 tòa Nam Rice City Tây Nam Linh Đàm Hà Nội",,mtsen@uneti.edu.vn
+149,vie,,GV,F,,,13-09-81,01006013,"Vũ Thị Thanh Tâm","3008, chung cư the two, KĐT Gamuda, Phường Trần Phú, Quận Hoàng Mai, Hà Nội",,vtttam@uneti.edu.vn
+150,vie,,GV,F,,,29-11-88,01006033,"Đỗ Thị Thanh Tâm","P418 - D15, Xã Đặng Xá, Huyện Gia Lâm, Thành phố Hà Nội",,dtttam@uneti.edu.vn
+151,vie,,GV,F,,,11-12-89,01006051,"Trần Thị Thanh Tâm","507 CT4B Bắc Linh Đàm, Hoàng Mai, Hà Nội",,ttttam@uneti.edu.vn
+152,vie,,GV,F,,,20-01-87,01006025,"Phạm Thị Hồng Thắm","Số nhà 28, đường thụy khuê , Phường Bưởi , Quận Tây Hồ, Thành phố Hà Nội",,pththam@uneti.edu.vn
+153,vie,,GV,F,,,07-12-88,02030015,"Lê Minh Thành","Căn hộ G2 - 1807, chung cư Five Star Garden, số 02, Kim Giang, Phường Kim Giang, Quận Thanh Xuân, TP HN",,lmthanh@uneti.edu.vn
+154,vie,,GV,F,,,15-06-89,02030029,"Nguyễn Thị Thọ","89/124 Trần Huy Liệu - Phường Trường Thi - TP Nam Định - Tỉnh Nam Định",,nttho@uneti.edu.vn
+155,vie,,GV,F,,,18-11-88,02030012,"Trần Phương Thuý","Số 11 - Đường Hoàng Văn Thụ - TP Nam Định - Tỉnh Nam Định",,tpthuy@uneti.edu.vn
+156,vie,,GV,F,,,08-10-85,02030007,"Trần Thanh Thủy","Số 283 Lương Thế Vinh, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định",,thuytt@uneti.edu.vn
+157,vie,,GV,F,,,12-10-88,01006028,"Trần Thị Ngọc Thúy","P305 tập thể E1, Phường Thanh Xuân Bắc, Quận Thanh Xuân, Thành phố Hà Nội",,ttnthuy@uneti.edu.vn
+158,vie,,GV,F,,,16-02-90,02030030,"Lê Thị Thúy","9/181 Vĩnh Mạc - Phường Lộc Vượng - TP Nam Định",,ltthuy.kt@uneti.edu.vn.
+159,vie,,TS,F,,,10-07-78,01006015,"Ngô Thị Trà","14B, Ngõ 12, đường Kim giang, Phường Kim Giang, Quận Thanh xuân, Thành phố Hà Nội",,nttra@uneti.edu.vn
+160,vie,,GV,F,,,01-05-90,01006053,"Phạm Thị Tươi","Hẻm 649/1/32, tổ 3, Phường Cự Khối, Quận Long Biên, TP Hà Nội",,pttuoi@uneti.edu.vn
+161,vie,,GV,F,,,17-02-88,01006054,"Đỗ Thị Tuyết","183A/60/12 đường Lĩnh Nam, P. Vĩnh Hưng, Q.Hoàng Mai, Hà Nội",,dttuyet@uneti.edu.vn
+162,vie,,GV,F,,,22-07-87,01006029,"Nguyễn Thị Hải Vân","Phòng 916, NO1B, bán đảo Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Thành phố Hà Nội",,nthvan@uneti.edu.vn
+163,vie,,TS,F,,,10-04-88,01006031,"Phạm Thị Thùy Vân","267 đường Hoàng Mai, Tổ 40, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội",,pttvan@uneti.edu.vn
+164,vie,,GV,F,,,05-01-89,01006055,"Trần Thị Hồng Vân","CH702, Nơ 21 Pháp Vân - Tứ Hiệp, phường Hoàng Liệt, quận Hoàng Mai, TP Hà Nội",,tthvan@uneti.edu.vn
+165,vie,,GV,F,,,09-08-82,02030020,"Lương Thị Yến","15/186, Đường Văn Cao, Phường Năng Tĩnh, Tp Nam Định",,ltyen@uneti.edu.vn
+166,vie,,GV,F,,,05-11-93,01006124,"Phạm Vũ Ánh Dương","203 Kim Ngưu, Hai Bà Trưng, Hà Nội",,pvaduong@uneti.edu.vn
+167,vie,,GV,F,,,16-08-93,01006125,"Phạm Thu Hương","20A, Ngõ 255/61, Lĩnh Nam, Phường Vĩnh Hưng, Quận Hoàng Mai, Thành phố Hà Nội",,huongpt@uneti.edu.vn
+168,vie,,TS,F,,,13-11-83,01006022,"Trần Thị Quỳnh Giang","P3411 Tòa S105 Khu đô thị Vinhomes Smartcity, P. Tây Mỗ, Q. Nam Từ Liêm, Hà Nội",,ttqgiang@uneti.edu.vn
+169,vie,,TS,F,,,16-09-70,01012002,"Trần Thị Hoàng Yến","N 36K, Ngõ 178 Quan Nhân, Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",,tthyen@uneti.edu.vn
+170,vie,,TS,F,,,28-02-75,01012001,"Vũ Kim Thái","Số 19, ngõ 59 Giảng Võ, Đống Đa, Hà Nội",,vkthai@uneti.edu.vn
+171,vie,,GV,F,,,10-07-75,01012003,"Nguyễn Thị Phương Lan","Thôn 2 , Đông Dư , Gia Lâm, Hà Nội",,ntplan@uneti.edu.vn
+172,vie,,GV,F,,,20-05-79,01012010,"Phạm Thị Thanh Thủy","Số 25E-Ngách 153/34 Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,thuyptt@uneti.edu.vn
+173,vie,,GV,F,,,24-08-79,01012008,"Cao Thị Thanh Xuân","P 12A36 CT11 Kim Văn Kim Lũ , Đại Kim, Hoàng Mai, Hà Nội",,cttxuan@uneti.edu.vn
+174,vie,,GV,F,,,20-10-77,01012011,"Hà Thị Thanh","P404A9 TT Khương Thượng, Phường Trung Tự, Quận Đống Đa, Thành phố Hà Nội",,htthanh@uneti.edu.vn
+175,vie,,GV,F,,,23-02-84,01012014,"Nguyễn Thị Hạnh Lê","Số 55 dãy 4 Tổ 63, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội",,nthle@uneti.edu.vn
+176,vie,,GV,F,,,10-06-86,02036008,"Phạm Thị Liên","số 24 ngõ 73 Tây Trà, Phường Trần Phú, Quận Hoàng Mai, Thành phố Hà Nội",,ptlien@uneti.edu.vn
+177,vie,,GV,F,,,18-12-86,02036009,"Trần Thị Kim Thanh","31 Phạm Ngọc Hồ,Khu đô thị Thống Nhất, phường Lộc Hạ, Thành phố Nam Định",,ttkthanh@uneti.edu.vn
+178,vie,,GV,F,,,25-02-86,01012019,"Bùi Thị Huế","Phòng 1108-19t3 -kiến hưng -hà đông - hà nội",,bthue@uneti.edu.vn
+179,vie,,GV,F,,,09-09-87,02036011,"Vũ Thị Ngọc","157 Hàng Tiện , Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,vtngoc@uneti.edu.vn
+180,vie,,GV,F,,,25-02-87,02036013,"Ngô Thị Toán","Nhà 4D/2/245 Đường Kênh, phường Lộc Vượng, TP Nam Định, Tỉnh Nam Định",,nttoan@uneti.edu.vn
+181,vie,,GV,F,,,02-06-87,02036015,"Trần Thị Tuyết Mai","Đội 3,Xóm Hoàng Văn Thụ,Thôn Vị Khê, Xã Điền Xá, Huyện Nam Trực, Tỉnh Nam Định",,tttmai@uneti.edu.vn
+182,vie,,GV,F,,,02-11-78,01012020,"Lê Lệ Hằng","Số 2 Ngách 39/71, Phường Thanh trì, Quận Hoàng Mai, Thành phố Hà Nội",,llhang@uneti.edu.vn
+183,vie,,GV,F,,,06-11-88,01012021,"Nguyễn Thị Thu","Tổ 12, Vĩnh Hưng, Hoàng Mai, Hà Nội",,ntthu.khcb@uneti.edu.vn
+184,vie,,GV,F,,,23-05-96,01012026,"Lê Hằng Anh","Số 17/46 Tương Mai, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",,lhanh@uneti.edu.vn
+185,vie,,GV,F,,,07-03-73,01007002,"Phương Mai Anh","Số 46 ngõ 2 Láng Hạ, Phường Láng Hạ, Quận Đống Đa, Thành phố Hà Nội",,pmanh@uneti.edu.vn
+186,vie,,GV,F,,,02-01-90,01034014,"Trần Tuệ An","86c Tổ 18B, Phường Tương Mai, Quận Hoàng Mai, Thành phố Hà Nội",,ttan@uneti.edu.vn
+187,vie,,GV,F,,,07-05-76,01034001,"Lê Kim Anh","P 405- C3 Kim Liên, Phường Khương Thượng, Quận Đống Đa, Thành phố Hà Nội",,lkanh@uneti.edu.vn
+188,vie,,GV,F,,,18-07-86,01034010,"Lê Thị Vân Anh","Số 7, ngõ 345 Khương Đình, Phường Khương Đình, Quận Thanh Xuân, Thành phố Hà Nội",,ltvanh@uneti.edu.vn
+189,vie,,GV,F,,,09-08-87,01034012,"Phạm Thị Thu Hà","Phòng 1406 tòa 18T1 chung cư Greenparrk (CT15) khu đô thị mới Việt Hưng quận Long Biên HN",,haptt@uneti.edu.vn
+190,vie,,GV,F,,,27-10-80,01034011,"Nguyễn Thị Thanh Hoa","Số 21 ngõ 68 phố Nam Đồng, Phường Nam Đồng, Quận Đống Đa, Thành phố Hà Nội",,ntthoa@uneti.edu.vn
+191,vie,,GV,F,,,28-07-83,01034008,"Nguyễn Hương Liên","Số nhà 2 ngõ 195, Phường Minh Khai, Quận Hai Bà Trưng, Thành phố Hà Nội",,nhlien@uneti.edu.vn
+192,vie,,GV,F,,,03-03-79,01034004,"Phạm Thị Ngoan","26, ngõ 156 phố Mai Tuấn Anh, Phường Ô Chợ Dừa, Quận Đống Đa, Thành phố Hà Nội",,ptngoan@uneti.edu.vn
+193,vie,,GV,F,,,02-05-76,01034005,"Nguyễn Thuỵ Phương","P414 E6 Quỳnh Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Thành phố Hà Nội",,ntphuong@uneti.edu.vn
+194,vie,,GV,F,,,03-03-87,01034016,"Trần Thị Thu Huyền","Tổ 48, cụm 8, , Phường Nhân Chính, Quận Thanh Xuân, Thành phố Hà Nội",,ttthuyen.ktcs@uneti.edu.vn
+195,vie,,GV,F,,,22-10-87,02010007,"Phạm Thị Thùy Linh","174 đường Hưng Yên, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,pttlinh@uneti.edu.vn
+196,vie,,GV,F,,,08-08-86,02010009,"Đỗ Thị Phượng","Số nhà I4P18 Ngõ 163 Trần Huy Liệu , Phường Văn Miếu, Thành phố Nam Định, Tỉnh Nam Định",,dtphuong@uneti.edu.vn
+197,vie,,GV,F,,,05-03-87,02010010,"Hà Thị Thu Thủy","276 Đường Thái Bình- Phường Trần Tế Xương - TP Nam Định - Tỉnh Nam Định",,httthuy@uneti.edu.vn
+198,vie,,GV,F,,,26-05-87,02010011,"Nguyễn Thị Thu Trang","228- Đường Trường Chinh- Phường Quang Trung - Tp Nam Định- Tỉnh Nam Định",,ntttrang@uneti.edu.vn
+199,vie,,GV,F,,,08-02-89,01034018,"Nguyễn Thị Dung","Thôn An Phú, Xã Quỳnh Hải, Huyện Quỳnh Phụ, Tỉnh Thái Bình",,ntdung.ktcs@uneti.edu.vn
+200,vie,,GV,F,,,28-10-90,01034017,"Phạm Thị Thanh Tân","Chung cư helios 75 Tam Trinh- Quận hoàng mai - Hà Nội",,ptttam@uneti.edu.vn
+201,vie,,TS,F,,,16-10-79,01034022,"Lê Thị Kim Chi","Số 151 phố Đông Các,  phường Ô Chợ Dừa, quận Đống Đa, Hà Nội",,ltkchi@uneti.edu.vn
+202,vie,,GV,F,,,02-06-91,01034024,"Phạm Ngọc Mai","T32617 KĐT Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội",,pnmai@uneti.edu.vn
+203,vie,,GV,F,,,07-04-87,01034026,"Trần Thị Thu Hảo","T2-Timescity- 458 Minh Khai- Hai Bà Trưng- Hà Nội",,ttthao.kdlvks@uneti.edu.vn
+204,vie,,GV,F,,,05-04-79,02035003,"Nguyễn Văn Bảng","Số 2A/24/131 Trần Thái Tông, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,nvbang@uneti.edu.vn
+205,vie,,GV,F,,,05-08-73,01011003,"Ngô Thị Mai","Số7, dãy A TT Bộ TLTT, Phường Cổ Nhuế 1, Quận Bắc Từ Liêm, Thành phố Hà Nội",,ntmai@uneti.edu.vn
+206,vie,,TS,F,,,29-05-83,01011009,"Nguyễn Thị Thu Hà","P306 - B3D, Phường Trung Hoà, Quận Cầu Giấy, Thành phố Hà Nội",,nguyenthuha83@uneti.edu.vn
+207,vie,,GV,F,,,27-02-80,02035004,"Mai Chi","66 Đỗ Huy Ria, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,maichi@uneti.edu.vn
+208,vie,,GV,F,,,27-07-80,02035002,"Trần Thị Mỵ","18 Phan Chu Trinh, Phường Phan Đình Phùng, Thành phố Nam Định, Tỉnh Nam Định",,ttmy@uneti.edu.vn
+209,vie,,GV,F,,,10-04-80,01011007,"Nguyễn Thị Hiền","Số 27- Tổ 14, Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội",,hiennt2019@uneti.edu.vn
+210,vie,,TS,F,,,25-06-80,01011004,"Bùi Thanh Thủy","3301. T18 Times CiTy, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,btthuy@uneti.edu.vn
+211,vie,,GV,F,,,01-05-78,01011010,"Đào Thanh Bình","S41/167 Tây Sơn, Phường Quang Trung, Quận Đống Đa, Thành phố Hà Nội",,dtbinh@uneti.edu.vn
+212,vie,,GV,F,,,25-09-81,01011013,"Phạm Thị Thùy Dương","P703, CT4B Bắc Linh Đàm, Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội",,pttduong@uneti.edu.vn
+213,vie,,GV,F,,,08-07-82,01011005,"Đinh Thị Cẩm Nhung","Phòng 35 A22, Phường Nghĩa Tân, Quận Cầu Giấy, Thành phố Hà Nội",,dtcnhung@uneti.edu.vn
+214,vie,,GV,F,,,12-09-81,02035001,"Lại Thị Thuỳ Linh","Số 8/37 Cù Chính Lan, Phường Trần Tế Xương, Thành phố Nam Định, Tỉnh Nam Định",,lttlinh@uneti.edu.vn
+215,vie,,GV,F,,,17-12-79,02035005,"Phan Thị Hương","Thôn Đoàn Kết, Xã Mỹ Tân, Huyện Mỹ Lộc, Tỉnh Nam Định",,pthuong@uneti.edu.vn
+216,vie,,GV,F,,,20-10-83,01011012,"Nguyễn Thị Mỹ Hạnh","R10818, CC Royal City, Phường Thượng Đình, Quận Thanh Xuân, Thành phố Hà Nội",,ntmyhanh@uneti.edu.vn
+217,vie,,GV,F,,,17-07-86,01011014,"Trần Thị Hương","Số 10B ngõ 32 Nam Dư, Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",,tthuong.khoallct@uneti.edu.vn
+218,vie,,GV,F,,,29-04-82,02035007,"Đỗ Thị Trang","Số2/11, Phường Phan Đình Phùng, Thành phố Nam Định, Tỉnh Nam Định",,dttrang@uneti.edu.vn
+219,vie,,GV,F,,,20-12-88,02035008,"Đoàn Thị Hiền","155/192 Trần Huy Liệu, Phường Trường Thi, Thành phố Nam Định, Tỉnh Nam Định",,dthien@uneti.edu.vn
+220,vie,,GV,F,,,16-02-85,01011015,"Nguyễn Thị Luyến","Số 11 Tổ 24, Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội",,luyennt@uneti.edu.vn
+221,vie,,GV,F,,,08-06-84,01011016,"Hoàng Thị Thu Thủy","A5 Ngõ 72 Dịch Vọng, Phường Dịch Vọng, Quận Cầu Giấy, Thành phố Hà Nội",,thuyhtt@uneti.edu.vn
+222,vie,,GV,F,,,03-03-88,02035009,"Phạm Thị Thanh Hằng","85 Đò Quan, Phường Cửa Nam, Thành phố Nam Định, Tỉnh Nam Định",,ptthang@uneti.edu.vn
+223,vie,,GV,F,,,09-12-89,01011018,"Nguyễn Thị Minh","P604-D10 KĐT Đặng Xá, Xã Cổ Bi, Huyện Gia Lâm, Thành phố Hà Nội",,ntminh.llct@uneti.edu.vn
+224,vie,,TS,F,,,03-02-75,01011011,"Lê Thị Lý","S6/ngách 17/ngõ 58/Hoàng đạo thành, Quận Thanh xuân, Thành phố Hà Nội",,ltly@uneti.edu.vn
+225,vie,,GV,F,,,03-11-78,01012009,"Trần Thị Thu Hằng","Số 2B10 Đầm Trấu, Phường Bạch Đằng, Quận Hai Bà Trưng, Thành phố Hà Nội",,ttthang@uneti.edu.vn
+226,vie,,TS,F,,,27-06-68,01012016,"Vũ Thị Nguyệt","Số 105 Ngõ 13, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,vtnguyet@uneti.edu.vn
+227,vie,,GV,F,,,29-03-78,01012006,"Hà Diệu Hằng","Số 8 Ngõ 173, Phường Vĩnh Phúc, Quận Ba Đình, Thành phố Hà Nội",,hdhang@uneti.edu.vn
+228,vie,,GV,F,,,20-12-78,02036003,"Phạm Thị Thúy","23/70 Trần Bích San, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,ptthuy@uneti.edu.vn
+229,vie,,GV,F,,,20-10-84,01012018,"Hồ Thị Phương","khu B TTBNN, Liên Ninh, Thanh Trì, Hà Nội",,htphuong@uneti.edu.vn
+230,vie,,GV,F,,,19-12-78,01033006,"Hoàng Thị Minh Lý","37, ngõ 66 phố Vũ Xuân Thiều, Phường Sài Đồng, Quận Long Biên, Thành phố Hà Nội",,htmly@uneti.edu.vn
+231,vie,,TS,F,,,04-03-81,01033012,"Nguyễn Thu Hà","Số 23b ngách 56/141 phố Tứ Liên, Tứ Liên, Tây Hồ, Hà Nội",,ntha.nn@uneti.edu.vn
+232,vie,,GV,F,,,14-11-75,02009003,"Nguyễn Thị Thanh Hương","Tổ 2, cụm 1, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,thanhhuong@uneti.edu.vn
+233,vie,,GV,F,,,16-05-86,01033013,"Phạm Hồng Nhung","số 68, ngách 62, ngõ 299, đường Hoàng Mai, Hà Nội",,phnhung@uneti.edu.vn
+234,vie,,GV,F,,,02-04-84,02009006,"Lê Anh Thư","9 Điện Biên, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định",,lathu@uneti.edu.vn
+235,vie,,GV,F,,,10-04-92,01033028,"Phạm Thị Diệu Linh","15a, ngõ 58 Nguyễn Khánh toàn - Cầu Giấy - Hà Nội",,ptdlinh.khoann@uneti.edu.vn
+236,vie,,GV,F,,,12-11-82,01033011,"Vũ Việt Phương","23 tổ 102C, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,vvphuong@uneti.edu.vn
+237,vie,,GV,F,,,20-09-68,01033002,"Đỗ Thị Hồng Hà","P4 - Dãy 1 - Tập thể nhà máy Hải châu, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,hadth@uneti.edu.vn
+238,vie,,GV,F,,,26-05-76,01033004,"Đỗ Thị Tiểu Yến","Số 7B6b Thành Công, Ba Đình, Hà Nội",,dttyen@uneti.edu.vn
+239,vie,,GV,F,,,08-12-78,01033007,"Hoàng Thị Thanh Huyền","căn 1602, tòa HH1A, chung cư New Horizon, Mai Động, Hoàng Mai, Hà Nội",,htthuyen@uneti.edu.vn
+240,vie,,GV,F,,,21-09-71,01033024,"Nguyễn Thúy Ngọc","Số 56A/149 Dương quảng Hàm, Quan hoa, Cầu Giấy , HN",,ntngoc.khoann@uneti.edu.vn
+241,vie,,GV,F,,,12-10-73,02009011,"Phạm Thu Hiền","5/8/122  Thái Bình, Phường Phan Đình Phùng, Thành phố Nam Định, Tỉnh Nam Định",,pthien@uneti.edu.vn
+242,vie,,GV,F,,,23-12-81,02009004,"Trần Thị Quỳnh","97C ô 20, Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,ttquynh@uneti.edu.vn
+243,vie,,GV,F,,,12-02-76,02009002,"Hoàng Thị Oanh","41B/98 Nguyễn Trãi, Phường Vị Hoàng, Huyện Ý Yên, Tỉnh Nam Định",,htoanh@uneti.edu.vn
+244,vie,,GV,F,,,22-01-81,02009012,"Trần Thị Khương Liên","19/91 Đường Kênh , Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định",,tklien@uneti.edu.vn
+245,vie,,GV,F,,,13-11-77,02009009,"Phạm Thị Thúy","335 đường Bái, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,ptthuy@uneti.edu.vn
+246,vie,,GV,F,,,08-04-77,01033008,"Đỗ Thị Ngọc Lan","2/ 116 An Xá, Phường Phúc Xá, Quận Ba Đình, Thành phố Hà Nội",,dtnlan@uneti.edu.vn
+247,vie,,GV,F,,,25-12-78,01033015,"Nguyễn Thị Lệ Thủy","số 12, ngách 140, ngõ 71, phố Tân Âp, P. Phúc Xá, Q. Ba Đình. TP Hà nội",,ntlthuy@uneti.edu.vn
+248,vie,,GV,F,,,20-02-85,01033016,"Hoàng Thị Ánh Nguyệt","Số 33, ngõ 77 bùi xương trạch, Khương Đình, Thanh Xuân, Hà Nội",,htanguyet@uneti.edu.vn
+249,vie,,GV,F,,,31-10-77,01033014,"Vũ Thị Hồng Vân","số nhà 21, hẻm 28/31 khu tập thể XN1, Phố Tôn Đức Thắng, Hàng Bột, Đống Đa, Hà Nội",,vthvan@uneti.edu.vn
+250,vie,,GV,F,,,23-12-87,01033018,"Phạm Vũ Minh Lộc","tổ 49, Phường Vĩnh Hưng, Quận Hoàng Mai, Thành phố Hà Nội",,pvmloc@uneti.edu.vn
+251,vie,,GV,F,,,13-12-80,01046004,"Nguyễn Thị Thanh Hà","Số 152, đường Thượng Hội, Cụm 13 , xã Tân Hội, Đan Phượng, HN",,nttha.dbcl@uneti.edu.vn
+252,vie,,GV,F,,,25-10-85,02009005,"Phạm Thu Yến","127 Quang Trung, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,yenpt@uneti.edu.vn
+253,vie,,GV,F,,,07-05-86,02009007,"Nguyễn Thị Ngọc Anh","lô 9 CL 10 khu đô thị Dệt- phường Trần Đăng Ninh, Thành Phố Nam Định",,ntnanh@uneti.edu.vn
+254,vie,,GV,F,,,19-05-87,02009008,"Trần Thị Thanh Phương","Số 6B ngõ 178 Hoàng Mai, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội",,tttphuong@uneti.edu.vn
+255,vie,,GV,F,,,14-06-89,01043010,"Lê Thị Tâm","P320 Nơ 1 Khu đô thị Pháp Vân",,lttam@uneti.edu.vn
+256,vie,,GV,F,,,26-04-76,01033021,"Khiếu Thị Hương","P12-7B Lương Yên, Phường Thanh Lương, Quận Hai Bà Trưng, Thành phố Hà Nội",,kthuong@uneti.edu.vn
+257,vie,,GV,F,,,03-12-76,01033019,"Lê Mỵ Thu","số 9/62/68 tổ 4 , Phường Quan Hoa, Quận Cầu Giấy, Thành phố Hà Nội",,lmthu@uneti.edu.vn
+258,vie,,GV,F,,,09-12-81,02009013,"Phạm Thị Nhãn","P.1604 tòa A, CCCT Sông Nhuệ, Kiến Hưng, Hà Đông, Hà Nội",,ptnhan@uneti.edu.vn
+259,vie,,GV,F,,,13-01-87,02009010,"Lưu Thị Phương Thúy","90 ngõ Tự do, Phường Đồng Tâm , Quận Hai Bà Trưng, Thành phố Hà Nội",,ltpthuy@uneti.edu.vn
+260,vie,,GV,F,,,19-12-88,01033023,"Nguyễn Thị Thanh Hà","105 Chu Văn An, Yết Kiêu, Hà Đông, Hà Nội",,nttha.nn@uneti.edu.vn
+261,vie,,GV,F,,,07-02-89,01033022,"Đỗ Thuận Giang","số 6 ngõ 108/5/8 Nghi Tàm, Yên Phụ, Tây Hồ, Hà Nội",,dtgiang@uneti.edu.vn
+262,vie,,GV,F,,,08-07-89,02009014,"Đặng Thị Thanh Hương","Thụy Kiều,Lộc An, Xã Lộc An, Thành phố Nam Định, Tỉnh Nam Định",,dtthuong.khoann@uneti.edu.vn
+263,vie,,GV,F,,,04-09-90,02009015,"Hoàng Thị Kim Thoa","Số 9, ngách 16/321 Vĩnh Hưng, Thanh Trì, Hoàng Mai, HN",,htkthoa@uneti.edu.vn
+264,vie,,GV,F,,,20-09-90,02009016,"Trần Hoài Ninh","61 tổ 84, Phường Trường Thi, Thành phố Nam Định, Tỉnh Nam Định",,thninh@uneti.edu.vn
+265,vie,,GV,F,,,16-06-91,01033029,"Bùi Thị Nga","Thôn Mai Nội, Mai Đình, Sóc Sơn, Hà Nội",,btnga.khoann@uneti.edu.vn
+266,vie,,GV,F,,,18-09-84,01033030,"Trần Thị Minh Phương","Số 7, ngõ 222/61 Lê Duẩn, Khâm Thiên, Đống Đa, HN",,ttmphuong.khoann@uneti.edu.vn
+267,vie,,GV,F,,,23-08-90,01033031,"Trần Hải Yến","Số 6/60 ngách 78 ngõ 29 Khương Hạ, Thanh Xuân, Hà Nội",,thyen.nn@uneti.edu.vn
+268,vie,,GV,F,,,12-02-91,01033032,"Trần Thị Ngọc Mai","1/2 căn 16 tổ 32 khu 8 TT Dệt vải CN, Mai Động, Hoàng Mai, Hà Nội",,ttnmai.nn@uneti.edu.vn
+269,vie,,GV,F,,,25-03-91,01033033,"Trần Thanh Nga","SN 5 ngách 131/3 ngõ 69a Hoàng Văn Thái, Khương Mai, Thanh Xuân, Hà Nội",,ttnga.av@uneti.edu.vn
+270,vie,,GV,F,,,20-01-80,01033034,"Ngô Thị Thu Hiền","P0918-T18 Times city. Tổ dân phố 20, Phường Mai Động, Quận Hoàng Mai, Hà Nội",,ntthien@uneti.edu.vn
+271,vie,,GV,F,,,12-03-86,01033035,"Vũ Thị Nga","Số Nhà 8- Ngách 60 - Ngõ 543 - Đường Giải Phóng -Phường Giáp Bát - Hoàng Mai",,vtnga@uneti.edu.vn
+272,vie,,GV,F,,,24-08-94,01033037,"Phan Thị Minh Tâm","58C8 ngách 96 ngõ Tự Do, phường Đồng Tâm, quận Hai Bà Trưng, Hà Nội",,ptmtam@uneti.edu.vn
+273,vie,,GV,F,,,19-10-88,01033038,"Đào Thị Thu Hương","Số 23 ngách 78/179 Vĩnh Hưng, quận Hoàng Mai, thành phố Hà Nội",,dtthuong038@uneti.edu.vn
+274,vie,,GV,F,,,01-09-93,01033039,"Dương Phương Vân","Số 4 ngõ 261 phố Yên Duyên, phường Yên Sở, quận Hoàng Mai, Hà Nội",,dpvan@uneti.edu.vn
+275,vie,,GV,F,,,23-05-01,01033044,"Nguyễn Thị Phương Ngọc","29B phố Chùa Láng, phường Láng Thượng, Đống Đa, Hà Nội",,ntpngoc@uneti.edu.vn
+276,vie,,GV,F,,,12-10-73,01033045,"Nguyễn Diệp Hồng","61 Hàm Long - Hàng Bài - Hoàn Kiếm - Hà Nội",,ndhong@uneti.edu.vn
+277,vie,,GV,F,,,12-11-84,01033046,"Nguyễn Thị Kim Anh","18 ngõ 179/90 Vĩnh Hưng, phường Vĩnh Hưng, Hoàng mai, Hà Nộ",,ntkanh@uneti.edu.vn
+278,vie,,TS,F,,,01-12-73,01033047,"Nguyễn Thị Hồng Hà","T1 1512A KĐT Times City, 458 Minh Khai, HBT, Hà Nội",,nthha@uneti.edu.vn
+279,vie,,GV,F,,,02-12-92,01033048,"Lò Thị Lan","A12a03 Tecco Skyville, xã Ngũ Hiệp, huyện Thanh Trì, thành phố Hà Nội",,ltlan@uneti.edu.vn
+280,vie,,GV,F,,,28-05-80,01033049,"Vương Thị Phương Thảo","S209 Vinhomes Ocean Park xã Đa Tốn, huyện Gia Lâm, thành phố Hà Nội",,vtthaop@uneti.edu.vn
+281,vie,,TS,F,,,26-08-82,01033050,"Nguyễn Thị Diệu Hà","S209 Vinhomes Ocean Park xã Đa Tốn, huyện Gia Lâm, thành phố Hà Nội",,vtthaop@uneti.edu.vn
+282,vie,,TS,F,,,16-09-82,01007010,"Đoàn Kim Thêu","Số nhà 5 ngõ 243 ngách 28 Nam Dư Lĩnh Nam HN",,dktheu@uneti.edu.vn
+283,vie,,GV,F,,,22-08-80,02031002,"Mai Thị Lụa","2 Lê Trọng Hàm, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,mtlua@uneti.edu.vn
+284,vie,,GV,F,,,16-05-80,01007009,"Hoàng Thị Chuyên","602B HH3B Chung cư Ecolake view 32 Đại Từ, Đại Kim, Hoàng Mai, Hà Nội",,htchuyen@uneti.edu.vn
+285,vie,,GV,F,,,03-06-89,01007020,"Trần Thị Minh Hải","Xóm Ngõ, Xã Nguyên Khê, Huyện Đông Anh, Thành phố Hà Nội",,ttmhai@uneti.edu.vn
+286,vie,,GV,F,,,13-06-79,01007007,"Nguyễn Thị Minh Hương","LK09-16 Khu đô Thị An Hưng, p Dương Nội, Hà Đông , Hà Nội",,minhhuong@uneti.edu.vn
+287,vie,,GV,F,,,02-03-85,01008008,"Nguyễn Thị Thu Hương","Số 26, TT ĐH Công nghệ GTVT, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",,huongntt@uneti.edu.vn
+288,vie,,GV,F,,,02-10-89,01007018,"Đỗ Thị Thu Hương","Số nhà 15, 74/193 Xóm Trại, Phường Phú Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội",,dtthuong@uneti.edu.vn
+289,vie,,GV,F,,,19-11-87,01007019,"Lê Thị Huyền","Phú Ân, Xã Lê Lợi, Huyện Kiến Xương, Tỉnh Thái Bình",,lthuyen@uneti.edu.vn
+290,vie,,GV,F,,,01-08-83,01007014,"Nguyễn Phương Linh","T22702-Timescity- 458 Minh Khai- Hai Bà Trưng- Hà Nội",,nplinh@uneti.edu.vn
+291,vie,,GV,F,,,30-09-83,01007016,"Trần Thị Kim Phượng","Số 39 Phố Hà Kế Tấn, Phường Phương Liệt , Quận Thanh Xuân, Thành phố Hà Nội",,ttkphuong@uneti.edu.vn
+292,vie,,GV,F,,,20-06-76,01007005,"Vũ Thị Kim Thanh","Phòng 122 C1 Thành Công, Phường Thành Công, Quận Ba Đình, Thành phố Hà Nội",,vtkthanh@uneti.edu.vn
+293,vie,,GV,F,,,07-05-82,01007013,"Nguyễn Thị Thu","802CT4, Khu đô thị Đặng Xá, Cổ Bi, Gia Lâm, HN",,ntthu@uneti.edu.vn
+294,vie,,GV,F,,,07-04-86,01008017,"Nguyễn Thị Thu Trang","Số 8 ngõ 218/14 Tây Sơn, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội",,trangntt@uneti.edu.vn
+295,vie,,GV,F,,,30-10-81,02010006,"Nguyễn Thị Lan Anh","167 Nguyễn Văn Trỗi, Phường Năng Tĩnh, Thành phố Nam Định, Tỉnh Nam Định",,anhntl@uneti.edu.vn
+296,vie,,GV,F,,,15-10-89,02031015,"Nguyễn Thị Giang","37/199 Nguyễn Văn Trỗi- TP Nam Định",,giangnt@uneti.edu.vn
+297,vie,,GV,F,,,15-04-89,02031014,"Trần Thị Hằng","Thôn 5, Xã Mỹ Trung, Huyện Mỹ Lộc, Tỉnh Nam Định",,hangtt@uneti.edu.vn.
+298,vie,,GV,F,,,01-03-81,02010004,"Phan Thị Minh Phương","311 Trần Nhân Tông phường Trần Hưng Đạo tp Nam Định",,ptmphuong@uneti.edu.vn
+299,vie,,GV,F,,,13-11-89,02031012,"Đặng Thị Thu Phương","48/62 Trường Chinh, Phường Bà Triệu, Thành phố Nam Định, Tỉnh Nam Định",,dttphuong@uneti.edu.vn
+300,vie,,GV,F,,,31-10-82,02010013,"Phạm Hương Thanh","9/30/144 Trần Đăng Ninh, Phường Trần Đăng Ninh, TP Nam ĐỊnh",,phthanh@uneti.edu.vn
+301,vie,,GV,F,,,23-01-85,02010008,"Trần Thị Thanh Thuỷ","số 18, ngõ 496, đường Điện Biên,P. Lộc Hòa, Tp. Nam Định, Tỉnh Nam Định",,tttthuy@uneti.edu.vn
+302,vie,,GV,F,,,12-02-82,02031004,"Trần Thị Vân","16.Phố Trần Đình Thâm, P.Lộc Vượng, Tp. Nam định",,ttvan@uneti.edu.vn
+303,vie,,GV,F,,,07-02-85,01007029,"Phạm Thanh Thảo","Nỏ Bạn, Xã Vân Tảo, Huyện Thường Tín, Thành phố Hà Nội",,ptthao@uneti.edu.vn
+304,vie,,GV,F,,,25-02-87,01007028,"Nông Mai Thanh","N01-T3 Chung cư Ngoại Giao Đoàn, Xuân Tảo, Bắc Từ Liêm, Hà Nội",,nmthanh@uneti.edu.vn
+305,vie,,GV,F,,,02-02-89,02031017,"Lê Thị Ánh","135B Vĩnh Trường, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,ltanh@uneti.edu.vn
+306,vie,,GV,F,,,01-04-89,01007033,"Đan Thu Vân","P908 No2 Khu Nhà Ở Ba Hàng A, Phường Lĩnh Nam , Quận Hoàng Mai, Thành phố Hà Nội",,dtvan@uneti.edu.vn
+307,vie,,GV,F,,,12-11-89,01007026,"Trần Thùy Linh","657 đường Ngọc Hồi, Thị trấn Văn Điển, Huyện Thanh Trì, Thành phố Hà Nội",,ttlinh@uneti.edu.vn
+308,vie,,GV,F,,,10-08-90,01007027,"Nguyễn Thị Nguyệt Minh","Ct8a Chung cư Đại Thanh, Tả Thanh Oai, Thanh Trì, Hà Nội",,ntnminh@uneti.edu.vn
+309,vie,,GV,F,,,16-03-87,02031020,"Bùi Thị Xuân","7/7/136 Phan Đình Phùng, Phường Phan Đình Phùng, Thành phố Nam Định, Tỉnh Nam Định",,btxuan@uneti.edu.vn
+310,vie,,GV,F,,,26-05-81,02031009,"Đỗ Thị Hường","Số 81 B Khu Đông Y, Phường Lộc Hạ, Thành phố Nam Định, Tỉnh Nam Định",,dthuong@uneti.edu.vn
+311,vie,,TS,F,,,20-01-73,01007006,"Nguyễn Thị Chi","27A ngõ 209 An Dương Vương, Phường Phú Thượng, Quận Tây Hồ, Thành phố Hà Nội",,ntchi@uneti.edu.vn
+312,vie,,TS,F,,,14-05-80,01034006,"Nguyễn Thị Phượng","D2303 imperia sky garden số 423 P.Minh Khai, Hà Nội",,phuongnt@uneti.edu.vn
+313,vie,,GV,F,,,01-04-87,01007022,"Nguyễn Thị Huyền","SN3, ngách 96/64, phố Đại Từ, Phường Đại Kim, Quận Hoàng Mai, Thành phố Hà Nội",,nthuyen@uneti.edu.vn
+314,vie,,GV,F,,,19-11-82,02010005,"Đỗ Thu Trang","Số 15/62 Đường Trường Chinh , Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,dothutrang@uneti.edu.vn
+315,vie,,GV,F,,,04-05-87,01007034,"Nguyễn Thị Thanh Hoa","34 ngõ 152 phố Thúy Lĩnh, Lĩnh Nam, Hoàng Mai, Hà Nội",,ntthoa.qtkd@uneti.edu.vn
+316,vie,,GV,F,,,05-08-87,02031019,"Nguyễn Thị Hương","335 Đặng Xuân Bảng- Nam Vân- Nam Định",,nthuong.qtkd@uneti.edu.vn
+317,vie,,GV,F,,,30-10-88,01007036,"Nguyễn Thúy Hải","Số 28, Ngách 61, Ngõ 296 Lĩnh Nam, Hoàng Mai, HN",,ntthai@uneti.edu.vn
+318,vie,,GV,F,,,10-04-89,01007031,"Nguyễn Thị Trang","Thôn Đại Tào, Xã Xuân Giang, Huyện Sóc Sơn, Thành phố Hà Nội",,nttrang@uneti.edu.vn
+319,vie,,GV,F,,,12-05-89,01007023,"Nguyễn Thị Hạnh","Số nhà 1A/10/115 Thúy Lĩnh-Lĩnh Nam-Hoàng Mai-Hà Nội",,nthanh.qtkd@uneti.edu.vn
+320,vie,,GV,F,,,07-08-80,02010001,"Nguyễn Thị Hoài","Số 420 Đường Điện Biên, Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",,nthoai@uneti.edu.vn
+321,vie,,TS,F,,,05-03-75,01008001,"Phùng Thị Lan Hương","P104C9 Mai Động, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,plhuong@uneti.edu.vn
+322,vie,,TS,F,,,11-10-82,02032002,"Vũ Thị Thục Oanh","16, Lê Ngọc Hân, Phường Hạ Long, thành phố Nam Định, tỉnh Nam Định",,vttoanh@uneti.edu.vn
+323,vie,,TS,F,,,19-02-82,01008002,"Đặng Hương Giang","88 ngõ 554 Trường Chinh, Phường Khương Thượng, Quận Đống Đa, Thành phố Hà Nội",,dhgiang@uneti.edu.vn
+324,vie,,GV,F,,,28-10-84,01008010,"Đỗ Thị Kim Thu","số 21 TT5.2 KĐT Ao sào, P.Thịnh Liệt, Q.Hoàng Mai",,dtkthu@uneti.edu.vn
+325,vie,,GV,F,,,28-06-81,01008015,"Phạm Thị Phương Thảo","P804-CT8C, Khu Đô thị Đặng Xá, Gia Lâm, Hà Nội",,ptpthao@uneti.edu.vn
+326,vie,,GV,F,,,05-10-81,01008014,"Nguyễn Thị Hệ","Số 16 B8 Đầm Trấu, Phường Bạch Đằng, Quận Hai Bà Trưng, Thành phố Hà Nội",,nthe@uneti.edu.vn
+327,vie,,GV,F,,,13-02-85,02032003,"Trần Thanh Phúc","Xóm 5, Xã Xuân Trung, Huyện Xuân Trường, Tỉnh Nam Định",,ttphuc@uneti.edu.vn
+328,vie,,GV,F,,,18-04-87,02032004,"Phạm Thị Diệu Phúc","Tổ 3 phường Vĩnh Hưng, quận Hoàng Mai, Thành phố Hà Nội",,ptdphuc@uneti.edu.vn
+329,vie,,GV,F,,,23-02-88,01007017,"Trần Thị Thùy Linh","Số 9 ngõ 123 ngách 22/18  Yên Xá, Huyện Thanh Trì, Thành phố Hà Nội",,tttlinh@uneti.edu.vn
+330,vie,,GV,F,,,10-11-88,01008022,"Trương Ngọc Chân","Số 5 ngách 71/11 Thanh Lân, Phường Thanh Trì, Quận Hoàng Mai, Thành phố Hà Nội",,tnchan@uneti.edu.vn
+331,vie,,GV,F,,,09-05-87,01008018,"Đỗ Mỹ Dung","Tổ 18, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,dmdung@uneti.edu.vn
+332,vie,,GV,F,,,03-02-89,01008023,"Đỗ Thị Thu Quỳnh","88/68 Cầu giấy, Quan Hoa, Hà Nội",,dttquynh@uneti.edu.vn
+333,vie,,GV,F,,,10-10-84,02032005,"Nguyễn Hồng Yến","2/10/112 Trần Nhật Duật, Phường Trần Tế Xương, Thành phố Nam Định",,nhyen@uneti.edu.vn
+334,vie,,GV,F,,,25-10-83,01008030,"Vũ Thanh Hương","505 Minh Khai, quận Hai Bà Trưng, Hà Nội",,vthuong@uneti.edu.vn
+335,vie,,GV,F,,,12-08-86,01008031,"Ngô Thanh Loan","Số nhà 40I ngõ 460/40 Khương Đình, Phường Hạ Đình, Quận Thanh Xuân, Thành phố Hà Nội",,ntloan@uneti.edu.vn
+336,vie,,GV,F,,,27-01-89,02032010,"Nguyễn Thị Thanh Thúy","1/5 đường Trần Nhật Duật, Vị Xuyên, Nam Định",,nttthuy.tcnh@uneti.edu.vn
+337,vie,,GV,F,,,09-05-89,01008038,"Lý Thị Thúy","Số 3, Ngách 99/158 , Tổ 14, Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội",,ltthuy.tcnh@uneti.edu.vn
+338,vie,,GV,F,,,10-08-89,01008025,"Vũ Thị Anh","Nhà 6, ngõ 255/47, đường Lĩnh Nam, Hoàng Mai, Hà Nội",,vtanh@uneti.edu.vn
+339,vie,,GV,F,,,17-08-89,02032007,"Vũ Thị Bích Hảo","16A Bùi Xuân Phái, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,vtbhao@uneti.edu.vn
+340,vie,,GV,F,,,03-09-89,01008035,"Đoàn Thị Nguyệt","Ô 44, Liền kề 26, Khu đô thị Văn Phú, Phường Phú La, Quận Hà Đông, Thành phố Hà Nội",,dtnguyet@uneti.edu.vn
+341,vie,,GV,F,,,01-11-89,01008029,"Trần Thị Hoa","Chung cư CT2A khu nhà ở Quân đội Thạch Bàn, Long Biên, Hà Nội",,tthoa@uneti.edu.vn
+342,vie,,GV,F,,,09-11-89,02032008,"Đoàn Phương Ngân","1/11/35 Phù Nghĩa, Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,dpngan@uneti.edu.vn
+343,vie,,GV,F,,,15-11-89,01008042,"Đặng Thu Trang","Số 6, ngách 191A/5, Đại La, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",,dttrang.tcnh@uneti.edu.vn
+344,vie,,GV,F,,,26-12-89,01008037,"Nguyễn Thị Kim Thoa","Phòng 502,tập thể 125C,ngách 33,Hòa Bình 7, Phường Minh Khai, Quận Hai Bà Trưng, Thành phố Hà Nội",,ntkthoa@uneti.edu.vn
+345,vie,,GV,F,,,14-01-90,01008034,"Nguyễn Thị Bích Ngọc","Số 30, ngách 670/43 Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Thành phố Hà Nội",,ntbngoc@uneti.edu.vn
+346,vie,,GV,F,,,11-05-90,02032009,"Vũ Thị Kim Thanh","89 Cửa Trường, phường Ngô Quyền, tp Nam Định",,vtkthanh@uneti.edu.vn
+347,vie,,GV,F,,,09-08-90,01008040,"Nguyễn Thị Quỳnh Trang","Xóm 8, thôn Khả Lạc, Xã Đồng Tân, Huyện Ứng Hòa, Thành phố Hà Nội",,ntqtrang@uneti.edu.vn
+348,vie,,GV,F,,,16-08-90,01008027,"Trần Thị Ngọc Anh","Số 105 Đường Kênh, Phường Cửa Bắc, Thành phố Nam Định, Tỉnh Nam Định",,ttnanh@uneti.edu.vn
+349,vie,,GV,F,,,23-08-90,01008036,"Hoàng Thúy Phương","Phòng 206B ngõ 29 đường Giáp Bát, Phường Giáp Bát, Quận Hoàng Mai, Thành phố Hà Nội",,htphuong.tcnh@uneti.edu.vn
+350,vie,,GV,F,,,24-08-90,01008033,"Nguyễn Thị Mai","19/7/22 Ngõ Tô Hoàng, Phường Cầu Dền, Quận Hai Bà Trưng, Thành phố Hà Nội",,nguyenmai.tcnh@uneti.edu.vn
+351,vie,,GV,F,,,06-10-90,01008039,"Nguyễn Thị Tình","Số nhà 21/89/296 lĩnh nam- hoàng mai- hà nội",,nttinh@uneti.edu.vn
+352,vie,,GV,F,,,23-10-90,01008046,"Phạm Thị Thu Hà","609 trương định Phường thịnh liệt, Quận Hoàng mai, Thành phố Hà Nội",,pttha.tcnh@uneti.edu.vn
+353,vie,,GV,F,,,27-10-90,01008041,"Lê Minh Trang","A14 P104 Ngõ 100 Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",,lmtrang@uneti.edu.vn
+354,vie,,GV,F,,,06-12-90,01008026,"Nguyễn Ngọc Anh","Tổ 17, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội",,nnanh@uneti.edu.vn
+355,vie,,GV,F,,,14-12-90,01008032,"Phạm Thị Ngọc Mai","320 Lĩnh Nam, Hoàng Mai, Hà Nội",,ptnmai@uneti.edu.vn
+356,vie,,GV,F,,,23-12-89,01008044,"Trương Thị Thảo","Khu Hòa sơn, Thị trấn Chúc Sơn, Huyện Chương Mỹ, Thành phố Hà Nội",,ttthao@uneti.edu.vn
+357,vie,,GV,F,,,24-05-91,01008090,"Lê Phương Hoa","Số 15 ngách 135/73 Đội Cấn, Phường Ngọc Hà, Quận Ba Đình, Thành phố Hà Nội",,lphoa@uneti.edu.vn
+358,vie,,TS,F,,,21-11-73,01008005,"Đường Thị Thanh Hải","Phòng 401 d14a tập thể Quỳnh Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Thành phố Hà Nội",,dtthai@uneti.edu.vn
+359,vie,,VC,F,,,06-06-88,02019007,"Dương Thị Phương","Số 202, Đường Nguyễn Khuyến, P Mỹ Xá, TP Nam Định",,duongphuong@uneti.edu.vn
+360,vie,,VC,F,,,26-07-85,01043008,"Đào Thu Huyền","A1D2 KĐT Đặng Xá - Đặng Xá - Gia Lâm - Hà Nội",,dthuyen@uneti.edu.vn
+361,vie,,VC,F,,,13-05-91,01043015,"Chu Thị Mận","Số 9a ngách 187/179 Vĩnh Hưng, Hoàng Mai, Hà Nội",,ctman@uneti.edu.vn
+362,vie,,GV,F,,,19-09-82,02019003,"Trần Thị Nhuần","Số 47, Đường Chu Văn, Phường Hạ Long, TP Nam Định.",,ttnhuan@uneti.edu.vn
+363,vie,,GV,F,,,16-02-74,01015002,"Nguyễn Thị Hồng Sâm","T021111 Chung cư Timescity 458 Minh Khai, Vĩnh Tuy, HBT, Hà Nội",,nthsam@uneti.edu.vn
+364,vie,,GV,F,,,15-03-83,01027015,"Vũ Thu Uyên","P02 Park Hill Chung cư Timescity 458 Minh Khai, Vĩnh Tuy, HBT, Hà Nội",,vtuyen@uneti.edu.vn
+365,vie,,VC,F,,,20-11-87,02039008,"Nguyễn Thị Thuỳ Linh","79 Đinh Thị Vân, Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,nttlinh@uneti.edu.vn
+366,vie,,VC,F,,,25-08-73,01015014,"Phí Thị Kiều Liên","Số 6 ngách 204/41 Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Thành phố Hà Nội",,ptklien@uneti.edu.vn
+367,vie,,VC,F,,,29-11-74,02039003,"Hồ Mai Hoa","109 Trương Hán Siêu, Phường Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",,hmhoa@uneti.edu.vn
+368,vie,,VC,F,,,29-06-69,01042001,"Nguyễn Thị Thu Hằng","Số 17/46, Tương Mai, Phường Đồng Tâm, Quận Hoàng Mai, Thành phố Hà Nội",,ntthanghc@uneti.edu.vn
+369,vie,,GV,F,,,13-09-68,02018006,"Trần Hoàng Yến","15 Hoàng Ngân-P.Phan Đình Phùng-Tp NĐ",,thyen@uneti.edu.vn
+370,vie,,VC,F,,,06-07-82,02018007,"Phạm Thị Hương Giang","62 Lương Ngọc Quyến, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,pthgiang@uneti.edu.vn
+371,vie,,VC,F,,,22-07-91,02018040,"Vũ Thị Thanh Huyền","88 Đào Tấn - phường Trần Quang Khải - tp Nam Định",,vtthuyen.hcqt@uneti.edu.vn
+372,vie,,TS,F,,,04-08-81,01001002,"Đỗ Thị Minh Hạnh","số 31 tổ 11, Phường Yên Sở, Quận Hoàng Mai, Thành phố Hà Nội",,dtmhanh@uneti.edu.vn
+373,vie,,GV,F,,,30-09-80,01041004,"Trần Thị Hà","Phòng 2308B Helios tower 75 Tam Trinh - phường Mai Động - Hoàng Mai Hà Nội",,ttha@uneti.edu.vn
+374,vie,,GV,F,,,02-12-71,01041003,"Trương Thị Thuỷ","Số 11, ngách 90, ngõ 13, Đường Lĩnh Nam, P. Mai Động, Q. Hoàng Mai, TP. Hà Nội",,ttthuy@uneti.edu.vn
+375,vie,,GV,F,,,01-06-77,01041002,"Đoàn Thị Diệp Uyển","P.1401- Chung cư CT2B, P. Thạch Bàn. Q. Long Biên – Hà Nội",,dtduyen@uneti.edu.vn
+376,vie,,GV,F,,,07-03-74,02017002,"Nguyễn Thị Thu Hường","42Phạm Đình Kính, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,thuhuong@uneti.edu.vn
+377,vie,,GV,F,,,05-07-70,01014001,"Phạm Thị Minh Hoa","Số 7/24/30 Phan Đình Giót, Phường Phương Liệt, Quận Thanh Xuân, Thành phố Hà Nội",,ptmhoa@uneti.edu.vn
+378,vie,,VC,F,,,10-10-84,02039012,"Đặng Thị Phượng","Số nhà 8/44 Ngõ 158 Lê Hồng Phong, Thành phố Nam Định",,dangphuong@uneti.edu.vn
+379,vie,,GV,F,,,23-11-75,01008006,"Trần Thị Thanh Hương","P1706-DDN1- nhà B14, Phường Kim Liên, Quận Đống Đa, Thành phố Hà Nội",,ttthuong@uneti.edu.vn
+380,vie,,GV,F,,,20-07-79,01015007,"Lưu Thị Mai Lan","Số nhà 20, ngõ 441 lĩnh nam, Quận Hoàng Mai, Hà Nội",,ltmlan@uneti.edu.vn
+381,vie,,GV,F,,,28-02-73,02003005,"Vũ Thị Thu Huyền","9/109 đường Trần Huy Liệu, Phường Văn Miếu, Thành phố Nam Định, Tỉnh Nam Định",,vtthuyen@uneti.edu.vn
+382,vie,,GV,F,,,10-02-81,01014003,"Phan Thị Thái","Số 27, Tổ 2, Ngách 179/78 Vĩnh Hưng , Hoàng Mai, Hà Nội",,ptthai@uneti.edu.vn
+383,vie,,VC,F,,,21-01-88,01014006,"Phạm Ngọc Anh","16/60 Yên Lạc, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,ngocanh@uneti.edu.vn
+384,vie,,VC,F,,,09-09-88,02019006,"Vũ Thị Bích Ngọc","Thôn Đồng Thái, Xã Đại Thắng, Huyện Vụ Bản, Tỉnh Nam Định",,vtbngoc@uneti.edu.vn
+385,vie,,GV,F,,,07-09-75,01016002,"Trần Thị Kim Liên","P3 12B06 Times City, 458 Minh Khai, Hai Bà Trưng, Hà Nội",,ttklien@uneti.edu.vn
+386,vie,,TS,F,,,24-08-87,01006024,"Hoàng Thị Huyền","Số nhà 5B Phố Nam Dư, Lĩnh Nam, Hoàng Mai, Hà Nội",,hthuyen@uneti.edu.vn
+387,vie,,VC,F,,,31-01-86,02040005,"Nguyễn Thị Hương Giang","Số 36 ngõ An Phong , Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,nthgiang@uneti.edu.vn
+388,vie,,GV,F,,,05-08-74,01016003,"Lê Thị Hồng Hạnh","A5 P 118, khu TT Quỳnh Mai, Phường Quỳnh Mai, Quận Hai Bà Trưng, Thành phố Hà Nội",,lthhanh@uneti.edu.vn
+389,vie,,VC,F,,,04-10-75,01016004,"Nguyễn Thị Thủy","P5A1 - TT Phụ nữ, Phường Láng Thượng, Quận Đống Đa, Thành phố Hà Nội",,ntthuytckt@uneti.edu.vn
+390,vie,,VC,F,,,04-11-81,01016005,"Phạm Thị Lan Hương","161 Ngũ Nhạc, Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội",,ptlhuong@uneti.edu.vn
+391,vie,,VC,F,,,21-05-82,01016006,"Nguyễn Thị Lan","9b Hương Viên, Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội",,ntlan@uneti.edu.vn
+392,vie,,GV,F,,,24-02-90,01006044,"Nguyễn Ánh Hồng","Số 10A - ngách 95 - Ngõ 479 Lĩnh Nam, Hoàng Mai, Hà Nội",,nahong@uneti.edu.vn
+393,vie,,GV,F,,,28-01-90,01006057,"Nguyễn Thị Cúc","Số 23 ngách 65 ngõ 218 Lĩnh Nam, Lĩnh Nam, Hoàng Mai, Hà Nội",,ntcuc@uneti.edu.vn
+394,vie,,VC,F,,,15-10-91,01021004,"Phạm Thị Minh Hương","Số 2 ngõ 65 Lạc Trung, HBT, HN",,ptmhuong@uneti.edu.vn
+395,vie,,GV,F,,,09-12-88,02036010,"Đặng Thị Thu Hiền","S12A-11 toà The One, Gamuda Gadern, Trần Phú, Hoàng Mai, Hà Nội",,hiendtt@uneti.edu.vn
+396,vie,,GV,F,,,01-10-83,02039005,"Nguyễn Phương Thu","170 Tức Mạc, phường Lộc Vượng, TP Nam Định, Tỉnh Nam Định",,npthu@uneti.edu.vn
+397,vie,,VC,F,,,29-12-83,02039016,"Trần Thị Hoàng Tú","3/100 Hàn Thuyên, P. Vị Hoàng, TP Nam Định, tỉnh Nam Định",,tthtu@uneti.edu.vn
+398,vie,,GV,F,,,15-10-83,02036005,"Nguyễn Thị Diệu Hiền","1/53 Cù Chính Lan, Phường Trần Tế Xương, TP Nam Định, Tỉnh Nam Định",,ntdhien@uneti.edu.vn
+399,vie,,VC,F,,,23-06-87,02030024,"Phạm Thanh Loan","1/163 đường Hưng Yên, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,ptloan@uneti.edu.vn
+400,vie,,VC,F,,,23-10-98,01020003,"Vũ Mai Anh","105 Yên Hòa, Cầu Giấy, Hà Nội",,vmanh@uneti.edu.vn
+401,vie,,GV,F,,,24-06-69,01043005,"Phan Thị Thanh Thủy","Số 8/23/663 Trương Định - Thịnh Liệt - Hoàng Mai - Hà Nội",,pttthuy@uneti.edu.vn
+402,vie,,VC,F,,,18-08-80,02018036,"Nguyễn Thị Hải Yến","Số 16 I ô 18, Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,nthyen@uneti.edu.vn
+403,vie,,GV,F,,,20-10-86,02037010,"Phạm Thị Tuyết","Tổ 20, , Phường Bà Triệu, Thành phố Nam Định, Tỉnh Nam Định",,pttuyet@uneti.edu.vn
+404,vie,,GV,F,,,15-12-82,01033010,"Trần Thị Mỹ Linh","Số 4 đường Phan Trọng Tuệ, tổ 5 khu Quỳnh Lân, Thanh Trì, Hà Nội",,tmlinh@uneti.edu.vn
+405,vie,,GV,F,,,11-04-68,01021002,"Trần Kim Yến","P1907 A2, chung cư Thăng Long garden, 250 Minh Khai, Phường Minh Khai, Quận Hai Bà Trưng, Thành phố Hà Nội",,tkyen@uneti.edu.vn
+406,vie,,GV,F,,,14-09-82,01021003,"Nguyễn Thị Ngọc","Số 31, ngõ 734/39 Kim Giang, Thanh Liệt,  Thanh Trì, Hà Nội",,ntngoc.ttnnth@uneti.edu.vn.
+407,vie,,VC,F,,,04-10-74,02045002,"Trần Thị Gấm","126 Lương Văn Can, Phường Hạ Long, Thành phố Nam Định, Tỉnh Nam Định",,ttgam@uneti.edu.vn
+408,vie,,TS,F,,,03-09-76,01015016,"Nguyễn Thị Hà","P12 1518 Park hill Time City, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,ntha@uneti.edu.vn
+409,vie,,VC,F,,,05-02-88,01042011,"Phan Thị Thư","Số nhà 04- Ngõ 23 Đông Thiên - Vĩnh Hưng _Hoàng Mai - Hà Nội",,ptthu87@uneti.edu.vn
+410,vie,,VC,F,,,17-11-90,01015022,"Bùi Thị Thúy Hằng","P1103 Chung cư 33 Ngõ Giếng, Phường Ô Chợ Dừa, quận Đống Đa, Hà Nội",,btthang.tttv@uneti.edu.vn
+411,vie,,VC,F,,,17-12-85,02039014,"Đỗ Thị Vân Hoài","12/7/136 - Phan Đình Phùng - Tp. Nam Định - Tỉnh Nam Định",,dtvhoai@uneti.edu.vn
+412,vie,,VC,F,,,03-02-95,01059001,"Trần Thị Thu Hoài","số 8/53 tân triều, xã Tân Triều, thanh trì, hà nội",,ttthoai@uneti.edu.vn
+413,vie,,VC,F,,,15-05-95,01059002,"Mai Thị Trang","Số 11, ngõ 302 Minh Khai, Mai Động, Hoàng Mai, Hà Nội",,mttrang@uneti.edu.vn
+414,vie,,TS,F,,,01-02-78,01006003,"Phạm Thị Lụa","135A Yên Lạc, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,ptlua@uneti.edu.vn
+415,vie,,TS,M,,,06-08-75,01049005,"Trần Hoàng Long","135A Yên Lạc, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,thlong@uneti.edu.vn
+416,vie,,TS,M,,,25-06-63,02050001,"Trần Đức Cân","12 ngõ 319 Tam Trinh, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Thành phố Hà Nội",,tdcan@uneti.edu.vn
+417,vie,,TS,M,,,21-09-64,01014002,"Nguyễn Ngọc Khương","số 19, TT TXQK Thủ Đô 296/87 Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội",,nnkhuong@uneti.edu.vn
+418,vie,,GS,M,,,25-05-80,01029003,"Nguyễn Hữu Quang","Số nhà 27, ngõ 441, đường Lĩnh Nam, Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội",,nhquang@uneti.edu.vn
+419,vie,,GV,M,,,27-06-81,02005003,"Nguyễn Văn Trúc","17/170, Đường Trường Chinh, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,nvtruc@uneti.edu.vn
+420,vie,,GV,M,,,04-01-65,01029006,"Lê Văn Tiến","Nhà 9 Ngách 7 ngõ 243 Tam Trinh Mai Động Hoàng Mai HN",,lvtien@uneti.edu.vn
+421,vie,,GV,M,,,12-08-82,01029014,"Vũ Hoài Anh","Pòng 502 tập thể C1B ngõ 9 Hoàng Ngọc Phách Láng Hạ, Đống Đa, Hà Nội",,hoaianh@uneti.edu.vn
+422,vie,,GV,M,,,27-05-96,01029035,"Lê Huỳnh Đức","Tổ dân phố 15 phường Yên Nghĩa, Hà Đông, Hà Nội",,lhduc@uneti.edu.vn
+423,vie,,GV,M,,,02-09-79,01029037,"Trần Ánh Viên","Số 127 Khu tập thể Viện Công nghệ Xạ Hiến - Đồng Tháp - Đan Phượng - Hà Nội",,tavien@uneti.edu.vn
+424,vie,,TS,M,,,25-07-65,02039002,"Phạm Vũ Dũng","320 Hoàng Văn Thụ, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,pvdung@uneti.edu.vn
+425,vie,,TS,M,,,11-03-80,02005009,"Nguyễn Thành Huân","116 - Vũ Trọng Phụng, Phường Thống Nhất, Thành phố Nam Định, Tỉnh Nam Định",,nthuan@uneti.edu.vn
+426,vie,,GV,M,,,15-04-69,01029001,"Dương Hải Nam","192 Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,dhnam@uneti.edu.vn
+427,vie,,TS,M,,,10-02-80,01029009,"Nguyễn Văn Mùi","52H2 Ngõ 33/22 Nguyễn An Ninh, Phường Tương Mai, Quận Hoàng Mai, Thành phố Hà Nội",,nvmui@uneti.edu.vn
+428,vie,,GV,M,,,06-10-79,01029005,"Đặng Văn Hoà","SN 26, TT Trường ĐH CN giao thông vận tải, ngõ 50 đường Trung Văn, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",,dvhoa@uneti.edu.vn
+429,vie,,TS,M,,,05-05-83,01029029,"Triệu Quý Huy","Số 52, đường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",,tqhuy@uneti.edu.vn
+430,vie,,TS,M,,,08-08-91,01029027,"Phạm Trung Thiên","Phúc Lợi, Long Biên, Hà Nội",,ptthien.ck@uneti.edu.vn
+431,vie,,GV,M,,,06-03-83,02005005,"Nguyễn Tiến Dũng","16A Bùi Xuân Phái, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,dungnt@uneti.edu.vn
+432,vie,,GV,M,,,02-02-86,02005007,"Trần Văn Mạnh","vân Chàng, Thị trấn Nam Giang, Huyện Nam Trực, Tỉnh Nam Định",,tvmanh@uneti.edu.vn
+433,vie,,GV,M,,,21-10-92,01029026,"Nguyễn Mạnh Hà","Số 26, Phố Mai Động, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,nmha.ck@uneti.edu.vn
+434,vie,,GV,M,,,28-06-80,01029002,"Trịnh Kiều Tuấn","P213 V3 khu đô thị Đặng Xá, Xã Cổ Bi, Huyện Gia Lâm, Thành phố Hà Nội",,tktuan@uneti.edu.vn
+435,vie,,TS,M,,,08-06-82,01029008,"Trương Minh Đức","Số 9, ngõ 12, đường Lê Trọng Tấn, Phường La Khê, Quận Hà Đông, Thành phố Hà Nội",,tmduc@uneti.edu.vn
+436,vie,,GV,M,,,21-05-82,01029007,"Vũ Đức Quang","Số 5B, ngõ 67, Nam Dư, Lĩnh Nam, Hoàng Mai, Hà Nội",,vuquang@uneti.edu.vn
+437,vie,,GV,M,,,01-11-72,02025008,"Trần Vũ Lâm","15/6/157A đường Thanh Bình, Liên Hà I, Phường Lộc Hạ, TP. Nam Định",,tvlam@uneti.edu.vn
+438,vie,,GV,M,,,20-03-80,01029016,"Nguyễn Tuấn Hưng","P503, 19T4, Kiến Hưng, Hà Đông, Hà Nội",,nthung@uneti.edu.vn
+439,vie,,GV,M,,,10-02-85,01029017,"Nguyễn Thọ Sơn","Thôn 3 Vạn Phúc Thanh Trì Hà Nội",,ntson@uneti.edu.vn
+440,vie,,TS,M,,,15-05-80,01029018,"Lê Như Trang","Số 7, tập thể kho Lương thực Thôn Thượng Thụy xã Đức Thượng huyện Hoài Đức, Hà Nội",,lntrang@uneti.edu.vn
+441,vie,,TS,M,,,28-02-81,01029032,"Trần Văn Hoàng","12 - Lê Anh Xuân - Lộc An - tp Nam Định",,tvhoang@uneti.edu.vn
+442,vie,,TS,M,,,30-03-76,01029030,"Phạm Văn Liệu","Căn 2902 chung cư Smite Trung Yên, 01 đường Nguyễn Cảnh Dị, Định Công, Hoàng Mai, Hà Nội",,pvlieu@uneti.edu.vn
+443,vie,,GV,M,,,07-11-76,02005004,"Bùi Ánh Hưng","403 CT1 chung cư Nàng hương tổ 12 phường Văn quán, quận Hà đông",,bahung@uneti.edu.vn
+444,vie,,GV,M,,,06-05-83,02005010,"Trần Trọng Thể","Mai xá, Xã Mỹ Xá, Thành phố Nam Định, Tỉnh Nam Định",,tnthe@uneti.edu.vn
+445,vie,,GV,M,,,30-03-83,01029012,"Nguyễn Ngọc Sang","P.708 No1, khu nhà ở Ba Hàng A, 282 Lĩnh Nam, Hoàng Mai, Hà nội",,nnsang@uneti.edu.vn
+446,vie,,GV,M,,,17-03-83,01029034,"Đinh Văn Phương","Căn hộ 2630-HH1C-Linh Đàm, Hoàng Liệt, Hoàng Mai, Hà Nội",,dvphuong@uneti.edu.vn
+447,vie,,TS,M,,,19-11-78,01029036,"Nguyễn Tường Vi","Tổ 10, phường Lĩnh Nam, quận Hoàng Mai, Hà Nội",,ntvi@uneti.edu.vn
+448,vie,,GV,M,,,16-04-83,02005019,"Nguyễn Thanh Bình","Số 7 Đốc Ngữ - Khu Đô thị Hòa Vượng - TP Nam Định - Tỉnh Nam Định",,ntbinh@uneti.edu.vn
+449,vie,,GV,M,,,18-03-97,01029038,"Vũ Văn Thi","7/4/39 Cổ Điển, Xóm Đồng A, Xã Tứ Hiệp, Thanh Trì, Hà Nội",,vvthi@uneti.edu.vn
+450,vie,,GV,M,,,24-06-00,01029039,"Đỗ Văn Tỉnh","Số 22, 15/28/3 ngõ Gốc Đề - phường Hoàng Văn Thụ, Quần Hoàng Mai, Hà Nội",,dvtinh.ck@uneti.edu.vn
+451,vie,,GV,M,,,30-05-00,01029040,"Nguyễn Ngọc Thể","Số 24, ngách 49 Ngõ Hoà Bình 4, phường Minh Khai, Quận HBT Hà Nội",,nnthe@uneti.edu.vn
+452,vie,,GV,M,,,30-05-00,01029044,"Đặng Huy Hoàn","Khu 10, Thị trấn Hạ Hòa, huyện Hạ Hòa, tỉnh Phú Thọ",,dhhoan@uneti.edu.vn
+453,vie,,GV,M,,,19-05-78,01027014,"Nguyễn Hoàng Chiến","P2204, N03T3B Khu ngoại giao đoàn, Phường Xuân Tảo, Quận Bắc Từ Liêm, Thành phố Hà Nội",,nhchien@uneti.edu.vn
+454,vie,,GV,M,,,13-10-81,02003009,"Cao Ngọc Ánh","11 ngõ 1 Lã Xuân Oai - Hạ Long, Tp Nam Định",,cnanh@uneti.edu.vn
+455,vie,,GV,M,,,29-12-78,01027008,"Mai Mạnh Trừng","23, ngách 53/1 - Trại Cá, Phường Trương Định, Quận Hai Bà Trưng, Thành phố Hà Nội",,mmtrung@uneti.edu.vn
+456,vie,,GV,M,,,24-07-76,02003004,"Vũ Văn Đốc","177 Nguyễn Tri Phương - Lộc An - Thành phố Nam Định",,vvdoc@uneti.edu.vn
+457,vie,,GV,M,,,20-08-83,01004009,"Đinh Trường Ninh","C24 Lô18, Phường Định Công, Quận Hoàng Mai, Thành phố Hà Nội",,dtninh@uneti.edu.vn
+458,vie,,GV,M,,,10-05-83,01027019,"Đặng Văn Giang","Số 109A, Ngõ 14 Vũ Hữu, Phường Trung Văn, Quận Nam Từ Liêm, Thành phố Hà Nội",,dvgiang@uneti.edu.vn
+459,vie,,GV,M,,,19-04-77,01027013,"Đường Tuấn Hải","104 C21, Phường Mai Động, Quận Hoàng Mai, Thành phố Hà Nội",,dthai@uneti.edu.vn
+460,vie,,GV,M,,,07-08-87,01027006,"Trần Quốc Hoàn","Tổ 26, Phường Thanh trì, Quận Hoàng Mai, Thành phố Hà Nội",,tqhoan@uneti.edu.vn
+461,vie,,GV,M,,,18-09-94,01027034,"Nguyễn Thế Mạnh","Xóm Chùa - Kim Nỗ - Đông Anh - Hà Nội",,ntmanh.cntt@uneti.edu.vn
+462,vie,,GV,M,,,18-06-83,02003010,"Trần Thanh Đại","26/25/111 Mạc Thị Bưởi - Quang Trung - TP Nam Định",,ttdai@uneti.edu.vn
+463,vie,,TS,M,,,12-08-83,02003008,"Bùi Văn Tân","Bồi Tây, Xã Mỹ Phúc, Huyện Mỹ Lộc, Tỉnh Nam Định",,bvtan@uneti.edu.vn
+464,vie,,GV,M,,,21-01-84,02003011,"Phạm Minh Thái","15 Hàng Cấp, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,pmthai@uneti.edu.vn
+465,vie,,GV,M,,,26-04-77,01027009,"Đào Thuỵ Ánh","208 Phố Hoa Bằng, Phường Yên Hoà, Quận Cầu Giấy, Thành phố Hà Nội",,dtanh@uneti.edu.vn
+466,vie,,GV,M,,,30-09-86,02003012,"Trần Quốc Toản","178 - Vũ Trọng Phụng - Phường Thống Nhất - TP Nam Định",,tqtoan@uneti.edu.vn
+467,vie,,GV,M,,,24-08-80,01027035,"Vũ Anh Tuấn","1804 Tòa nhà VP3 - Khu đất dịch vụ tổng hợp và nhà ở hồ Linh Đàm - Phường Hoàng Liệt - Quận Hoàng Mai - Hà Nội",,vatuan@uneti.edu.vn
+468,vie,,GV,M,,,02-01-83,01027038,"Bùi Văn Công","Số 16A, ngõ 788/11/8, đường Kim Giang, Thanh Liệt, Thanh Trì, TP. Hà Nội",,bvcong@uneti.edu.vn
+469,vie,,GV,M,,,07-12-95,01027039,"Ngô Quang Trí","Số 8, ngõ 545, phố Thụy Khuê, Bưởi, Tây Hồ, Hà Nội",,nqtri@uneti.edu.vn
+470,vie,,GV,M,,,05-08-00,01027040,"Dương Đình Thiệu","Hoàng Đông - Hoàng Long - Phú Xuyên - Hà Nội",,ddthieu@uneti.edu.vn
+471,vie,,GV,M,,,22-03-73,02003028,"Đoàn Tuấn Nam","Số 7/272 đường Hàn Thuyên, Trần Tế Xương, Tp Nam Định",,dtnam@uneti.edu.vn
+472,vie,,GV,M,,,12-11-99,01027041,"Nguyễn Quang Hưng","Số 2 Ngõ 39/14 đường Đại Đồng, Tp Hà Nội",,nqhung.cntt@uneti.edu.vn
+473,vie,,GV,M,,,10-06-91,01027044,"Phạm Văn Dương","Số 7 tổ 1 phường Thanh Nhàn, quận Hai Bà Trưng, thành phố Hà Nội",,pvduong@uneti.edu.vn
+474,vie,,GS,M,,,25-02-69,01026005,"Hồ Tuấn Anh","Số nhà 39, ngách 442/15 phố Vĩnh Hưng, phường Vĩnh Hưng, Hoàng Mai, Hà Nội",,htanh@uneti.edu.vn
+475,vie,,GV,M,,,07-10-77,02002003,"Phạm Quang Tứ","8/129 Lộc Vượng, Phường Lộc vượng, Thành phố Nam Định, Tỉnh Nam Định",,pqtu@uneti.edu.vn
+476,vie,,GV,M,,,17-06-68,02025002,"Đào Anh Tuấn","Số 9 Vũ Công Tự, Phường Lộc An, Thành phố Nam Định, Tỉnh Nam Định",,datuan@uneti.edu.vn
+477,vie,,GV,M,,,08-06-77,02025009,"Vũ Dương Quang","Số 4, ngõ 17, phố Nguyễn Du, Phường Nguyễn Du, Thành phố Nam Định, Tỉnh Nam Định",,vdquang@uneti.edu.vn
+478,vie,,TS,M,,,10-05-69,02025006,"Nguyễn Quốc Toản","Phòng 628 nhà CT5B - thôn Yên xá, xã Tân Triều, Huyện Thanh trì , HN",,nqtoan@uneti.edu.vn
+479,vie,,GV,M,,,24-01-74,01043002,"Nguyễn Gia Phong","Số 100 phố Cửa Bắc, Phường Quán Thánh, Quận Ba Đình, Thành phố Hà Nội",,ngphong@uneti.edu.vn
+480,vie,,GV,M,,,21-11-77,01001006,"Nguyễn Thanh Nam","Số 8 ngách 454/26 đường Minh Khai, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Thành phố Hà Nội",,ntnam@uneti.edu.vn
+481,vie,,GV,M,,,08-11-81,01001015,"Bùi Quang Lập","SN12,Tập thể XN4,Quỳnh Đô, X.Vĩnh Quỳnh, H.Thanh Trì, HN",,bqlap@uneti.edu.vn
+482,vie,,GV,M,,,27-10-68,02025003,"Lê Xuân Thắng","1b cống AP, Phường Quang Trung, Thành phố Nam Định, Tỉnh Nam Định",,lxthang@uneti.edu.vn
+483,vie,,GV,M,,,07-07-82,02025011,"Trần Nguyên Lân","1 Lê Hữu Trác, Phường Thống Nhất, Thành phố Nam Định, Tỉnh Nam Định",,tnlan@uneti.edu.vn
+484,vie,,GV,M,,,21-12-92,01043012,"Phương Công Huấn","Xóm Cờ, Nguyên Xá, Phường Minh Khai, Quận Bắc Từ Liêm, Thành phố Hà Nội",,pchuan.dm@uneti.edu.vn
+485,vie,,GV,M,,,29-11-84,01001031,"Cao Minh Tiến","Số 11 ngõ 505 Trần Khát Chân, Hai Bà Trưng, Hà Nội",,cmtien@uneti.edu.vn
+486,vie,,GV,M,,,07-11-71,02025022,"Trần Thụy Liên","1/4/152 tổ 16 miền Vĩnh Trường, phường Lộc Vượng, thành phố Nam Định, tỉnh Nam Định",,ttlien@uneti.edu.vn
+487,vie,,GV,M,,,23-08-77,02028003,"Trần Ngọc Sơn","38/359 Trần Hưng Đạo, Phường Bà Triệu, Thành phố Nam Định, Tỉnh Nam Định",,tnson@uneti.edu.vn
+488,vie,,GV,M,,,20-12-89,02028013,"Nguyễn Đức Điển","Tổ 43 , Phường Trường Thi, Thành phố Nam Định, Tỉnh Nam Định",,nddien@uneti.edu.vn
+489,vie,,GV,M,,,24-10-80,02028010,"Trần Đông","37 Trần Khánh Dư, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,trandong@uneti.edu.vn
+490,vie,,TS,M,,,30-12-77,02028005,"Trần Đức Chuyển","Xóm 9, Xã Liên Bảo, Huyện Vụ Bản, Tỉnh Nam Định",,tdchuyen@uneti.edu.vn
+491,vie,,GV,M,,,27-10-89,01004014,"Mai Văn Duy","Tổ 7A, Phường Cẩm Trung, Thành phố Cẩm Phả, Tỉnh Quảng Ninh",,mvduy@uneti.edu.vn
+492,vie,,GV,M,,,28-10-84,01004010,"Hà Huy Giáp","Số 6, ngách 595/31, Phường Lĩnh Nam, Quận Hoàng Mai, Thành phố Hà Nội",,hhgiap@uneti.edu.vn
+493,vie,,TS,M,,,25-05-78,01004004,"Đỗ Quang Hiệp","số 47 ngách 29/16 Khương Hạ, Khương Đình, Thanh Xuân, Hà Nội",,dqhiep@uneti.edu.vn
+494,vie,,GV,M,,,25-01-77,01004002,"Phạm Ngọc Sâm","Số 01 ngõ 34 Đường Cầu Diễn, Phường Phúc Diễn, Quận Bắc Từ Liêm, Thành phố Hà Nội",,pnsam@uneti.edu.vn
+495,vie,,GV,M,,,10-08-76,02028008,"Lê Văn Ánh","Xóm 2 Tân An, Xã Lộc Hòa, Thành phố Nam Định, Tỉnh Nam Định",,lvanh@uneti.edu.vn
+496,vie,,GV,M,,,11-07-74,02028002,"Hoàng Đình Cơ","1/48/181 Phù Long, Phường Trần Tế Xương, Thành phố Nam Định, Tỉnh Nam Định",,hdco@uneti.edu.vn
+497,vie,,GV,M,,,20-01-80,02028017,"Nguyễn Cao Cường","403 Đường Kênh, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,nccuong@uneti.edu.vn
+498,vie,,GV,M,,,09-06-84,02028009,"Doãn Văn Hoá","452 Nguyễn Bính, Phường Trần Quang Khải, Thành phố Nam Định, Tỉnh Nam Định",,rvhoa@uneti.edu.vn
+499,vie,,GV,M,,,06-11-81,02028007,"Phạm Văn Huy","6/15/181 Vĩnh Mạc, Phường Lộc Vượng, Thành phố Nam Định, Tỉnh Nam Định",,pvduy@uneti.edu.vn
+500,vie,,GV,M,,,20-04-89,02028012,"Phạm Văn Minh","Đội 2, Xã Nghĩa Đồng , Huyện Nghĩa Hưng, Tỉnh Nam Định",,pvminh@uneti.edu.vn

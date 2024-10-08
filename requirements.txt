@@ -1,0 +1,10 @@
+# pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
+pandas
+protobuf>=3.11
+numpy>=1.21
+numba>=0.53.1
+scipy>=1.4.1
+tensorflow>=2.2.0
+pyyaml > 3.13
+dgl==1.0.1
+scikit-learn 

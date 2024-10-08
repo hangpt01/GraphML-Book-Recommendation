@@ -1,0 +1,2 @@
+python main.py --gpu_id=0 --dataset=mind-f --model=KHGRec --mode=full  --lrate=0.001 --embedding_size=128 --weight_decay=1e-4 --reg=0.01
+python main.py --gpu_id=1 --dataset=mind-f --model=KHGRec --mode=full  --lrate=0.001 --embedding_size=128 --weight_decay=1e-5 --reg=0.01

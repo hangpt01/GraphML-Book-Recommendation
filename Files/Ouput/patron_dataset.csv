@@ -1,0 +1,500 @@
+User_ids,Name,Last_active,Type_code,Spec_code,Year_code,Majors_code,Birth_day,Lang,Barcode,Email
+1,koha,-1,SV,,,,,vie,DL0001,thuthuy.duong99bn@gmail.co
+2,Selfcheck,-1,CB,,,,,vie,selfcheck01,-1
+3,Selfcheck,-1,CB,,,,,vie,selfcheck02,-1
+4,Nguyễn Thị Hà,-1,CB,f,,,,vie,CB01,-1
+5,Thân Văn Diễn,-1,CB,m,,,,vie,CB02,-1
+6,Phạm Đình Chiến,-1,CB,m,,,,vie,CB03,-1
+7,Mai Thị Trang,-1,CB,f,,,,vie,CB06,-1
+8,Mai Thanh Huyền,-1,CB,f,,,,vie,CB07,-1
+9,Bùi Thị Thúy Hằng,-1,CB,f,,,,vie,CB08,-1
+10,Trần Thị Thu Hoài,-1,CB,f,,,,vie,CB09,-1
+11,Đỗ Thị Vân Hoài,-1,CB,f,,,,vie,CB10,-1
+12,Nguyễn Như Mạnh,-1,CB,m,,,,vie,CB11,-1
+13,Trần Hoàng Anh,-1,CB,m,,,,vie,CB12,-1
+14,Phan Thị Thư,-1,CB,f,,,,vie,CB13,-1
+15,Koha,-1,HV,,,,,vie,admin,admin@admin.c
+26,Phạm Thị Thu Hoài,-1,GS,f,,,17-07-77,vie,01041001,ptthoai@uneti.edu.v
+27,Nguyễn Thị Khánh Huyền,-1,GV,f,,,22-12-95,vie,01029028,ntkhuyen@uneti.edu.v
+28,Trịnh Thị Mai,-1,GV,f,,,01-07-84,vie,02005008,ttmai@uneti.edu.v
+29,Nguyễn Thị Hương,-1,GV,f,,,26-08-87,vie,02005011,nthuong.ck@uneti.edu.v
+30,Vũ Thị Phượng,-1,GV,f,,,20-08-78,vie,01029031,vtphuong@uneti.edu.v
+31,Hoàng Thị Minh Châu,-1,GV,f,,,04-02-85,vie,01046002,htmchau@uneti.edu.v
+32,Trần Thị Lan Anh,-1,GV,f,,,07-10-76,vie,01027002,ttlanh@uneti.edu.v
+33,Trần Minh Đức,-1,GV,f,,,05-01-88,vie,01027021,ductm@uneti.edu.v
+34,Điền Thị Hồng Hà,-1,GV,f,,,11-11-87,vie,01027020,dthha@uneti.edu.v
+35,Vũ Mỹ Hạnh,-1,GV,f,,,15-09-82,vie,01027011,vmhanh@uneti.edu.v
+36,Doãn Thị Thuý Hiền,-1,GV,f,,,02-03-78,vie,01027016,dtthien@uneti.edu.v
+37,Nguyễn Thu Hiền,-1,GV,f,,,09-03-83,vie,01027003,nthien@uneti.edu.v
+38,Lê Thị Thu Hiền,-1,GV,f,,,22-10-87,vie,01027005,ltthien@uneti.edu.v
+39,Lương Thị Thảo Hiếu,-1,GV,f,,,25-07-73,vie,01027017,ltthieu@uneti.edu.v
+40,Lê Thị Kiều Oanh,-1,GV,f,,,08-07-78,vie,01027010,ltkoanh@uneti.edu.v
+41,Phạm Thị Thuỳ,-1,GV,f,,,17-11-86,vie,01027022,ptthuy.cntt@uneti.edu.v
+42,Trần Thị Hương,-1,GV,f,,,21-11-81,vie,02003002,tthuong@uneti.edu.v
+43,Hoàng Thị Phượng,-1,GV,f,,,17-07-82,vie,02003006,htphuong@uneti.edu.v
+44,Trần Bích Thảo,-1,GV,f,,,12-11-81,vie,02003003,tbthao@uneti.edu.v
+45,Nguyễn Thùy Dung,-1,GV,f,,,21-01-88,vie,01027036,ntdung@uneti.edu.v
+46,Lê Thị Mừng,-1,GV,f,,,13-02-84,vie,02003027,ltmung@uneti.edu.v
+47,Đặng Thị Thanh Quyên,-1,TS,f,,,03-12-77,vie,01023005,dttquyen@uneti.edu.v
+48,Nguyễn Thị Mai Hương,-1,TS,f,,,08-02-81,vie,01026004,ntmhuong@uneti.edu.v
+49,Mai Thị Vân Anh,-1,GV,f,,,20-08-83,vie,01023002,mtvanh@uneti.edu.v
+50,Nguyễn Thị Hiền,-1,TS,f,,,09-02-81,vie,02002004,hiennt@uneti.edu.v
+51,Lê Minh Châu,-1,TS,f,,,21-03-80,vie,01026002,lmchau@uneti.edu.v
+52,Đỗ Thị Kim Loan,-1,TS,f,,,12-08-80,vie,01026012,dtkloan@uneti.edu.v
+53,Phạm Thị Thu,-1,GV,f,,,01-09-80,vie,02002002,ptthu.cntp@uneti.edu.v
+54,Phan Thị Thanh Hương,-1,GV,f,,,13-09-83,vie,02002006,ptthuong@uneti.edu.v
+55,Trần Thị Thúy Quỳnh,-1,GV,f,,,02-11-83,vie,02002005,tttquynh@uneti.edu.v
+56,Vũ Thị Thu Hà,-1,GV,f,,,04-09-84,vie,01026008,vttha@uneti.edu.v
+57,Nguyễn Thị Chà,-1,GV,f,,,20-08-85,vie,01026007,ntcha@uneti.edu.v
+58,Tạ Thị Ngọc Dung,-1,GV,f,,,19-03-68,vie,01001004,ttndung@uneti.edu.v
+59,Đỗ Thị Tuyết Lan,-1,GV,f,,,15-02-73,vie,02025007,dttlan@uneti.edu.v
+60,Nguyễn Thị Thảo,-1,TS,f,,,12-01-68,vie,01001003,ntthao@uneti.edu.v
+61,Đặng Thị Kim Hoa,-1,GV,f,,,23-07-69,vie,01001013,dtkhoa@uneti.edu.v
+62,Nguyễn Thị Thu Lan,-1,GV,f,,,29-05-78,vie,01001005,nttlan@uneti.edu.v
+63,Nguyễn Thị Thuỳ,-1,GV,f,,,31-08-79,vie,01001007,ntthuy2013@uneti.edu.v
+64,Bùi Thanh Hương,-1,GV,f,,,11-02-75,vie,01001011,bthuong@uneti.edu.v
+65,Lê Thị Tâm Thanh,-1,GV,f,,,18-08-72,vie,01001001,lttthanh@uneti.edu.v
+66,Trần Thanh Hải,-1,GV,f,,,10-03-82,vie,01001016,tthai@uneti.edu.v
+67,Trần Thị Thu Hà,-1,GV,f,,,09-09-70,vie,01001010,tttha@uneti.edu.v
+68,Đặng Thị Lý,-1,GV,f,,,17-09-77,vie,01001014,dtly@uneti.edu.v
+69,Đỗ Thị Lan,-1,GV,f,,,12-03-80,vie,01001018,dtlan@uneti.edu.v
+70,Bùi Thị Thu Hiền,-1,GV,f,,,23-02-76,vie,02025012,btthien@uneti.edu.v
+71,Nguyễn Thị Lan Anh,-1,GV,f,,,31-05-77,vie,02025013,ntlanh@uneti.edu.v
+72,Nguyễn Thu Thủy,-1,GV,f,,,17-06-83,vie,01001023,ntthuy.dm@uneti.edu.v
+73,Nguyễn Thị Hòa,-1,GV,f,,,06-02-82,vie,01001027,nthoa.dm@uneti.edu.v
+74,Quách Thùy Dương,-1,GV,f,,,24-04-87,vie,01001028,qtduong@uneti.edu.v
+75,Đào Thị Tình,-1,GV,f,,,10-11-96,vie,01001034,dttinh@uneti.edu.v
+76,Phùng An Như,-1,GV,f,,,15-01-01,vie,01001035,panhu@uneti.edu.v
+77,Võ Thu Hà,-1,GS,f,,,02-12-79,vie,01004005,vtha@uneti.edu.v
+78,Nguyễn Hải Bình,-1,GV,f,,,30-07-82,vie,01004008,nhbinh@uneti.edu.v
+79,Đinh Thị Hằng,-1,GV,f,,,19-06-83,vie,01004013,dthang@uneti.edu.v
+80,Lê Thị Hoàn,-1,GV,f,,,30-03-82,vie,02028006,lthoan@uneti.edu.v
+81,Vũ Thị Tố Linh,-1,GV,f,,,17-08-87,vie,02028011,vttlinh@uneti.edu.v
+82,Nguyễn Thị Thành,-1,GV,f,,,28-06-90,vie,01004029,ntthanh.ddt@uneti.edu.v
+83,Đặng Thị Tuyết Minh,-1,GV,f,,,31-05-90,vie,01004055,dttminh@uneti.edu.v
+84,Nguyễn Thùy Dung,-1,GV,f,,,07-07-90,vie,01004056,thuydung@uneti.edu.v
+85,Thân Thị Thương,-1,GV,f,,,20-01-83,vie,01004060,ttthuong.dien@uneti.edu.v
+86,Trần Thúy Quỳnh,-1,GV,f,,,31-10-94,vie,01004058,ttquynh.dien@uneti.edu.v
+87,Nguyễn Thị Hiên,-1,GV,f,,,19-10-96,vie,01004061,nthien.dien@uneti.edu.v
+88,Phạm Thị Giang,-1,GV,f,,,26-10-97,vie,01004059,ptgiang@uneti.edu.v
+89,Nguyễn Thị Thu Yến,-1,GV,f,,,12-11-98,vie,01004064,nttyen@uneti.edu.v
+90,Chu Thị Thúy,-1,GV,f,,,08-08-96,vie,01004068,ctthuy@uneti.edu.v
+91,Trịnh Thị Hậu,-1,GV,f,,,28-11-89,vie,01004070,tthau@uneti.edu.v
+92,Nguyễn Thị Hồng Nhung,-1,TS,f,,,01-03-82,vie,01004020,nthnhung@uneti.edu.v
+93,Nguyễn Mai Anh,-1,GV,f,,,18-09-82,vie,01004018,nmanh@uneti.edu.v
+94,Đặng Thị Hương Giang,-1,GV,f,,,25-04-78,vie,01004015,dthgiang@uneti.edu.v
+95,Phạm Thị Thu Hà,-1,GV,f,,,06-07-78,vie,02028016,pttha@uneti.edu.v
+96,Trần Thị Hường,-1,GV,f,,,01-10-78,vie,02028015,huongtt@uneti.edu.v
+97,Bùi Thị Phượng,-1,GV,f,,,28-08-89,vie,01004028,btphuong@uneti.edu.v
+98,Trần Thị Thu Hường,-1,TS,f,,,11-12-85,vie,01055003,ttthuong.kdt@uneti.edu.v
+99,Trần Thu Hương,-1,GV,f,,,30-10-93,vie,01055001,tthuong.khoadt@uneti.edu.v
+100,Bùi Thị Nhi,-1,GV,f,,,12-12-97,vie,02056001,btnhi@uneti.edu.v
+101,Trần Thị Hường,-1,GV,f,,,30-10-80,vie,01055005,tthuong.kdt@uneti.edu.v
+102,Trần Thị Phương Thảo,-1,GV,f,,,24-01-88,vie,02037009,ttpthao@uneti.edu.v
+103,Đỗ Thị Huyền Trang,-1,GV,f,,,02-07-87,vie,01013014,dthtrang@uneti.edu.v
+104,Bùi Lệ Thu,-1,GV,f,,,26-04-93,vie,01013019,blthu.gdtcqp@uneti.edu.v
+105,Nguyễn Thị Thảo Mai,-1,GV,f,,,05-02-94,vie,01013020,nttmai@uneti.edu.v
+106,Đinh Thị Kim Xuyến,-1,TS,f,,,01-09-77,vie,01006019,dtkxuyen@uneti.edu.v
+107,Hoàng Thu Hiền,-1,TS,f,,,06-12-80,vie,01006008,hthien@uneti.edu.v
+108,Nguyễn Ngọc Lan,-1,TS,f,,,07-06-70,vie,01006002,nnlan@uneti.edu.v
+109,Nguyễn Thị Ngọc Lan,-1,TS,f,,,12-12-80,vie,01006007,ntnlan@uneti.edu.v
+110,Nguyễn Thị Tô Phượng,-1,GV,f,,,08-06-76,vie,01006004,nttphuong@uneti.edu.v
+111,Trần Thị Thanh Thuý,-1,GV,f,,,24-12-83,vie,02030003,thuyttt@uneti.edu.v
+112,Hoàng Thị Phương Lan,-1,TS,f,,,29-01-76,vie,01006018,htplan@uneti.edu.v
+113,Trần Thị Thắm,-1,TS,f,,,05-08-76,vie,02030001,tttham@uneti.edu.v
+114,Vũ Thị Vân Anh,-1,GV,f,,,08-01-80,vie,01006009,vtvanh@uneti.edu.v
+115,Lê Thị Bình,-1,GV,f,,,09-09-76,vie,01006011,ltbinh@uneti.edu.v
+116,Vũ Thị Diệp,-1,GV,f,,,08-11-84,vie,02030008,vtdiep@uneti.edu.v
+117,Nguyễn Thị Dung,-1,GV,f,,,15-08-90,vie,01006059,ntdung.kt@uneti.edu.v
+118,Vũ Thị Duyên,-1,GV,f,,,20-11-83,vie,01008013,vtduyen@uneti.edu.v
+119,Nguyễn Hoàng Giang,-1,GV,f,,,30-07-86,vie,02030034,nhgiang@uneti.edu.v
+120,Trần Thị Ngọc Hà,-1,GV,f,,,10-08-79,vie,01006020,ttnha@uneti.edu.v
+121,Nguyễn Thị Thu Hà,-1,GV,f,,,02-08-79,vie,02030002,nttha@uneti.edu.v
+122,Nguyễn Thị Thu Hằng,-1,TS,f,,,02-07-80,vie,01006016,thuhang@uneti.edu.v
+123,Nguyễn Thị Hằng,-1,GV,f,,,15-01-78,vie,02030006,nthang@uneti.edu.v
+124,Nguyễn Thuý Hằng,-1,GV,f,,,19-11-86,vie,02030011,thuyhang@uneti.edu.v
+125,Mai Thanh Hằng,-1,GV,f,,,21-09-90,vie,01006060,mthang@uneti.edu.v
+126,Phùng Thị Hiền,-1,GV,f,,,24-12-90,vie,01006061,pthien.kt@uneti.edu.v
+127,Lê Thị Hòa,-1,GV,f,,,24-01-87,vie,01006030,lthoa@uneti.edu.v
+128,Nguyễn Thị Thanh Hoài,-1,GV,f,,,18-03-90,vie,02030021,ntthoai@uneti.edu.v
+129,Lưu Thị Hoan,-1,GV,f,,,10-01-88,vie,01006035,hoanlt@uneti.edu.v
+130,Nguyễn Thị Hoàn,-1,GV,f,,,07-03-88,vie,02030017,nthoan@uneti.edu.v
+131,Nguyễn Thị Thanh Hương,-1,GV,f,,,27-06-77,vie,01006005,ntthuong@uneti.edu.v
+132,Hoàng Thị Hường,-1,GV,f,,,19-09-81,vie,01008012,hthuong@uneti.edu.v
+133,Nguyễn Thanh Huyền,-1,GV,f,,,27-07-82,vie,01006026,huyennt@uneti.edu.v
+134,Đinh Thị Thùy Liên,-1,GV,f,,,14-01-84,vie,01006036,dttlien@uneti.edu.v
+135,Nguyễn Thùy Linh,-1,GV,f,,,21-05-87,vie,01006047,ntlinh.kt@uneti.edu.v
+136,Trần Thị Luận,-1,GV,f,,,03-04-89,vie,02030025,ttluan@uneti.edu.v
+137,Đặng Thị Mây,-1,GV,f,,,18-01-84,vie,02030009,dtmay@uneti.edu.v
+138,Phạm Thị Mỵ,-1,GV,f,,,18-03-87,vie,01006048,ptmy@uneti.edu.v
+139,Trần Bích Nga,-1,GV,f,,,10-11-75,vie,01006010,tbnga@uneti.edu.v
+140,Lương Thị Nga,-1,GV,f,,,14-02-89,vie,02030018,ltnga@uneti.edu.v
+141,Trần Thu Nga,-1,GV,f,,,19-10-90,vie,01006049,ttnga@uneti.edu.v
+142,Nguyễn Thị Nguyệt,-1,GV,f,,,04-10-89,vie,01006034,ntnguyet@uneti.edu.v
+143,Trương Thị Nhung,-1,GV,f,,,15-10-87,vie,01006050,ttnhung@uneti.edu.v
+144,Lê Thị Oanh,-1,GV,f,,,16-05-84,vie,02030010,ltoanh@uneti.edu.v
+145,Trần Thị Quyên,-1,GV,f,,,05-10-86,vie,02030019,ttquyen@uneti.edu.v
+146,Tăng Thị Bích Quyên,-1,GV,f,,,16-07-90,vie,02030026,ttbquyen@uneti.edu.v
+147,Nguyễn Thị Sâm,-1,GV,f,,,20-03-90,vie,02030027,ntsam@uneti.edu.v
+148,Mai Thị Sen,-1,GV,f,,,03-07-83,vie,01006021,mtsen@uneti.edu.v
+149,Vũ Thị Thanh Tâm,-1,GV,f,,,13-09-81,vie,01006013,vtttam@uneti.edu.v
+150,Đỗ Thị Thanh Tâm,-1,GV,f,,,29-11-88,vie,01006033,dtttam@uneti.edu.v
+151,Trần Thị Thanh Tâm,-1,GV,f,,,11-12-89,vie,01006051,ttttam@uneti.edu.v
+152,Phạm Thị Hồng Thắm,-1,GV,f,,,20-01-87,vie,01006025,pththam@uneti.edu.v
+153,Lê Minh Thành,-1,GV,f,,,07-12-88,vie,02030015,lmthanh@uneti.edu.v
+154,Nguyễn Thị Thọ,-1,GV,f,,,15-06-89,vie,02030029,nttho@uneti.edu.v
+155,Trần Phương Thuý,-1,GV,f,,,18-11-88,vie,02030012,tpthuy@uneti.edu.v
+156,Trần Thanh Thủy,-1,GV,f,,,08-10-85,vie,02030007,thuytt@uneti.edu.v
+157,Trần Thị Ngọc Thúy,-1,GV,f,,,12-10-88,vie,01006028,ttnthuy@uneti.edu.v
+158,Lê Thị Thúy,-1,GV,f,,,16-02-90,vie,02030030,ltthuy.kt@uneti.edu.vn
+159,Ngô Thị Trà,-1,TS,f,,,10-07-78,vie,01006015,nttra@uneti.edu.v
+160,Phạm Thị Tươi,-1,GV,f,,,01-05-90,vie,01006053,pttuoi@uneti.edu.v
+161,Đỗ Thị Tuyết,-1,GV,f,,,17-02-88,vie,01006054,dttuyet@uneti.edu.v
+162,Nguyễn Thị Hải Vân,-1,GV,f,,,22-07-87,vie,01006029,nthvan@uneti.edu.v
+163,Phạm Thị Thùy Vân,-1,TS,f,,,10-04-88,vie,01006031,pttvan@uneti.edu.v
+164,Trần Thị Hồng Vân,-1,GV,f,,,05-01-89,vie,01006055,tthvan@uneti.edu.v
+165,Lương Thị Yến,-1,GV,f,,,09-08-82,vie,02030020,ltyen@uneti.edu.v
+166,Phạm Vũ Ánh Dương,-1,GV,f,,,05-11-93,vie,01006124,pvaduong@uneti.edu.v
+167,Phạm Thu Hương,-1,GV,f,,,16-08-93,vie,01006125,huongpt@uneti.edu.v
+168,Trần Thị Quỳnh Giang,-1,TS,f,,,13-11-83,vie,01006022,ttqgiang@uneti.edu.v
+169,Trần Thị Hoàng Yến,-1,TS,f,,,16-09-70,vie,01012002,tthyen@uneti.edu.v
+170,Vũ Kim Thái,-1,TS,f,,,28-02-75,vie,01012001,vkthai@uneti.edu.v
+171,Nguyễn Thị Phương Lan,-1,GV,f,,,10-07-75,vie,01012003,ntplan@uneti.edu.v
+172,Phạm Thị Thanh Thủy,-1,GV,f,,,20-05-79,vie,01012010,thuyptt@uneti.edu.v
+173,Cao Thị Thanh Xuân,-1,GV,f,,,24-08-79,vie,01012008,cttxuan@uneti.edu.v
+174,Hà Thị Thanh,-1,GV,f,,,20-10-77,vie,01012011,htthanh@uneti.edu.v
+175,Nguyễn Thị Hạnh Lê,-1,GV,f,,,23-02-84,vie,01012014,nthle@uneti.edu.v
+176,Phạm Thị Liên,-1,GV,f,,,10-06-86,vie,02036008,ptlien@uneti.edu.v
+177,Trần Thị Kim Thanh,-1,GV,f,,,18-12-86,vie,02036009,ttkthanh@uneti.edu.v
+178,Bùi Thị Huế,-1,GV,f,,,25-02-86,vie,01012019,bthue@uneti.edu.v
+179,Vũ Thị Ngọc,-1,GV,f,,,09-09-87,vie,02036011,vtngoc@uneti.edu.v
+180,Ngô Thị Toán,-1,GV,f,,,25-02-87,vie,02036013,nttoan@uneti.edu.v
+181,Trần Thị Tuyết Mai,-1,GV,f,,,02-06-87,vie,02036015,tttmai@uneti.edu.v
+182,Lê Lệ Hằng,-1,GV,f,,,02-11-78,vie,01012020,llhang@uneti.edu.v
+183,Nguyễn Thị Thu,-1,GV,f,,,06-11-88,vie,01012021,ntthu.khcb@uneti.edu.v
+184,Lê Hằng Anh,-1,GV,f,,,23-05-96,vie,01012026,lhanh@uneti.edu.v
+185,Phương Mai Anh,-1,GV,f,,,07-03-73,vie,01007002,pmanh@uneti.edu.v
+186,Trần Tuệ An,-1,GV,f,,,02-01-90,vie,01034014,ttan@uneti.edu.v
+187,Lê Kim Anh,-1,GV,f,,,07-05-76,vie,01034001,lkanh@uneti.edu.v
+188,Lê Thị Vân Anh,-1,GV,f,,,18-07-86,vie,01034010,ltvanh@uneti.edu.v
+189,Phạm Thị Thu Hà,-1,GV,f,,,09-08-87,vie,01034012,haptt@uneti.edu.v
+190,Nguyễn Thị Thanh Hoa,-1,GV,f,,,27-10-80,vie,01034011,ntthoa@uneti.edu.v
+191,Nguyễn Hương Liên,-1,GV,f,,,28-07-83,vie,01034008,nhlien@uneti.edu.v
+192,Phạm Thị Ngoan,-1,GV,f,,,03-03-79,vie,01034004,ptngoan@uneti.edu.v
+193,Nguyễn Thuỵ Phương,-1,GV,f,,,02-05-76,vie,01034005,ntphuong@uneti.edu.v
+194,Trần Thị Thu Huyền,-1,GV,f,,,03-03-87,vie,01034016,ttthuyen.ktcs@uneti.edu.v
+195,Phạm Thị Thùy Linh,-1,GV,f,,,22-10-87,vie,02010007,pttlinh@uneti.edu.v
+196,Đỗ Thị Phượng,-1,GV,f,,,08-08-86,vie,02010009,dtphuong@uneti.edu.v
+197,Hà Thị Thu Thủy,-1,GV,f,,,05-03-87,vie,02010010,httthuy@uneti.edu.v
+198,Nguyễn Thị Thu Trang,-1,GV,f,,,26-05-87,vie,02010011,ntttrang@uneti.edu.v
+199,Nguyễn Thị Dung,-1,GV,f,,,08-02-89,vie,01034018,ntdung.ktcs@uneti.edu.v
+200,Phạm Thị Thanh Tân,-1,GV,f,,,28-10-90,vie,01034017,ptttam@uneti.edu.v
+201,Lê Thị Kim Chi,-1,TS,f,,,16-10-79,vie,01034022,ltkchi@uneti.edu.v
+202,Phạm Ngọc Mai,-1,GV,f,,,02-06-91,vie,01034024,pnmai@uneti.edu.v
+203,Trần Thị Thu Hảo,-1,GV,f,,,07-04-87,vie,01034026,ttthao.kdlvks@uneti.edu.v
+204,Nguyễn Văn Bảng,-1,GV,f,,,05-04-79,vie,02035003,nvbang@uneti.edu.v
+205,Ngô Thị Mai,-1,GV,f,,,05-08-73,vie,01011003,ntmai@uneti.edu.v
+206,Nguyễn Thị Thu Hà,-1,TS,f,,,29-05-83,vie,01011009,nguyenthuha83@uneti.edu.v
+207,Mai Chi,-1,GV,f,,,27-02-80,vie,02035004,maichi@uneti.edu.v
+208,Trần Thị Mỵ,-1,GV,f,,,27-07-80,vie,02035002,ttmy@uneti.edu.v
+209,Nguyễn Thị Hiền,-1,GV,f,,,10-04-80,vie,01011007,hiennt2019@uneti.edu.v
+210,Bùi Thanh Thủy,-1,TS,f,,,25-06-80,vie,01011004,btthuy@uneti.edu.v
+211,Đào Thanh Bình,-1,GV,f,,,01-05-78,vie,01011010,dtbinh@uneti.edu.v
+212,Phạm Thị Thùy Dương,-1,GV,f,,,25-09-81,vie,01011013,pttduong@uneti.edu.v
+213,Đinh Thị Cẩm Nhung,-1,GV,f,,,08-07-82,vie,01011005,dtcnhung@uneti.edu.v
+214,Lại Thị Thuỳ Linh,-1,GV,f,,,12-09-81,vie,02035001,lttlinh@uneti.edu.v
+215,Phan Thị Hương,-1,GV,f,,,17-12-79,vie,02035005,pthuong@uneti.edu.v
+216,Nguyễn Thị Mỹ Hạnh,-1,GV,f,,,20-10-83,vie,01011012,ntmyhanh@uneti.edu.v
+217,Trần Thị Hương,-1,GV,f,,,17-07-86,vie,01011014,tthuong.khoallct@uneti.edu.v
+218,Đỗ Thị Trang,-1,GV,f,,,29-04-82,vie,02035007,dttrang@uneti.edu.v
+219,Đoàn Thị Hiền,-1,GV,f,,,20-12-88,vie,02035008,dthien@uneti.edu.v
+220,Nguyễn Thị Luyến,-1,GV,f,,,16-02-85,vie,01011015,luyennt@uneti.edu.v
+221,Hoàng Thị Thu Thủy,-1,GV,f,,,08-06-84,vie,01011016,thuyhtt@uneti.edu.v
+222,Phạm Thị Thanh Hằng,-1,GV,f,,,03-03-88,vie,02035009,ptthang@uneti.edu.v
+223,Nguyễn Thị Minh,-1,GV,f,,,09-12-89,vie,01011018,ntminh.llct@uneti.edu.v
+224,Lê Thị Lý,-1,TS,f,,,03-02-75,vie,01011011,ltly@uneti.edu.v
+225,Trần Thị Thu Hằng,-1,GV,f,,,03-11-78,vie,01012009,ttthang@uneti.edu.v
+226,Vũ Thị Nguyệt,-1,TS,f,,,27-06-68,vie,01012016,vtnguyet@uneti.edu.v
+227,Hà Diệu Hằng,-1,GV,f,,,29-03-78,vie,01012006,hdhang@uneti.edu.v
+228,Phạm Thị Thúy,-1,GV,f,,,20-12-78,vie,02036003,ptthuy@uneti.edu.v
+229,Hồ Thị Phương,-1,GV,f,,,20-10-84,vie,01012018,htphuong@uneti.edu.v
+230,Hoàng Thị Minh Lý,-1,GV,f,,,19-12-78,vie,01033006,htmly@uneti.edu.v
+231,Nguyễn Thu Hà,-1,TS,f,,,04-03-81,vie,01033012,ntha.nn@uneti.edu.v
+232,Nguyễn Thị Thanh Hương,-1,GV,f,,,14-11-75,vie,02009003,thanhhuong@uneti.edu.v
+233,Phạm Hồng Nhung,-1,GV,f,,,16-05-86,vie,01033013,phnhung@uneti.edu.v
+234,Lê Anh Thư,-1,GV,f,,,02-04-84,vie,02009006,lathu@uneti.edu.v
+235,Phạm Thị Diệu Linh,-1,GV,f,,,10-04-92,vie,01033028,ptdlinh.khoann@uneti.edu.v
+236,Vũ Việt Phương,-1,GV,f,,,12-11-82,vie,01033011,vvphuong@uneti.edu.v
+237,Đỗ Thị Hồng Hà,-1,GV,f,,,20-09-68,vie,01033002,hadth@uneti.edu.v
+238,Đỗ Thị Tiểu Yến,-1,GV,f,,,26-05-76,vie,01033004,dttyen@uneti.edu.v
+239,Hoàng Thị Thanh Huyền,-1,GV,f,,,08-12-78,vie,01033007,htthuyen@uneti.edu.v
+240,Nguyễn Thúy Ngọc,-1,GV,f,,,21-09-71,vie,01033024,ntngoc.khoann@uneti.edu.v
+241,Phạm Thu Hiền,-1,GV,f,,,12-10-73,vie,02009011,pthien@uneti.edu.v
+242,Trần Thị Quỳnh,-1,GV,f,,,23-12-81,vie,02009004,ttquynh@uneti.edu.v
+243,Hoàng Thị Oanh,-1,GV,f,,,12-02-76,vie,02009002,htoanh@uneti.edu.v
+244,Trần Thị Khương Liên,-1,GV,f,,,22-01-81,vie,02009012,tklien@uneti.edu.v
+245,Phạm Thị Thúy,-1,GV,f,,,13-11-77,vie,02009009,ptthuy@uneti.edu.v
+246,Đỗ Thị Ngọc Lan,-1,GV,f,,,08-04-77,vie,01033008,dtnlan@uneti.edu.v
+247,Nguyễn Thị Lệ Thủy,-1,GV,f,,,25-12-78,vie,01033015,ntlthuy@uneti.edu.v
+248,Hoàng Thị Ánh Nguyệt,-1,GV,f,,,20-02-85,vie,01033016,htanguyet@uneti.edu.v
+249,Vũ Thị Hồng Vân,-1,GV,f,,,31-10-77,vie,01033014,vthvan@uneti.edu.v
+250,Phạm Vũ Minh Lộc,-1,GV,f,,,23-12-87,vie,01033018,pvmloc@uneti.edu.v
+251,Nguyễn Thị Thanh Hà,-1,GV,f,,,13-12-80,vie,01046004,nttha.dbcl@uneti.edu.v
+252,Phạm Thu Yến,-1,GV,f,,,25-10-85,vie,02009005,yenpt@uneti.edu.v
+253,Nguyễn Thị Ngọc Anh,-1,GV,f,,,07-05-86,vie,02009007,ntnanh@uneti.edu.v
+254,Trần Thị Thanh Phương,-1,GV,f,,,19-05-87,vie,02009008,tttphuong@uneti.edu.v
+255,Lê Thị Tâm,-1,GV,f,,,14-06-89,vie,01043010,lttam@uneti.edu.v
+256,Khiếu Thị Hương,-1,GV,f,,,26-04-76,vie,01033021,kthuong@uneti.edu.v
+257,Lê Mỵ Thu,-1,GV,f,,,03-12-76,vie,01033019,lmthu@uneti.edu.v
+258,Phạm Thị Nhãn,-1,GV,f,,,09-12-81,vie,02009013,ptnhan@uneti.edu.v
+259,Lưu Thị Phương Thúy,-1,GV,f,,,13-01-87,vie,02009010,ltpthuy@uneti.edu.v
+260,Nguyễn Thị Thanh Hà,-1,GV,f,,,19-12-88,vie,01033023,nttha.nn@uneti.edu.v
+261,Đỗ Thuận Giang,-1,GV,f,,,07-02-89,vie,01033022,dtgiang@uneti.edu.v
+262,Đặng Thị Thanh Hương,-1,GV,f,,,08-07-89,vie,02009014,dtthuong.khoann@uneti.edu.v
+263,Hoàng Thị Kim Thoa,-1,GV,f,,,04-09-90,vie,02009015,htkthoa@uneti.edu.v
+264,Trần Hoài Ninh,-1,GV,f,,,20-09-90,vie,02009016,thninh@uneti.edu.v
+265,Bùi Thị Nga,-1,GV,f,,,16-06-91,vie,01033029,btnga.khoann@uneti.edu.v
+266,Trần Thị Minh Phương,-1,GV,f,,,18-09-84,vie,01033030,ttmphuong.khoann@uneti.edu.v
+267,Trần Hải Yến,-1,GV,f,,,23-08-90,vie,01033031,thyen.nn@uneti.edu.v
+268,Trần Thị Ngọc Mai,-1,GV,f,,,12-02-91,vie,01033032,ttnmai.nn@uneti.edu.v
+269,Trần Thanh Nga,-1,GV,f,,,25-03-91,vie,01033033,ttnga.av@uneti.edu.v
+270,Ngô Thị Thu Hiền,-1,GV,f,,,20-01-80,vie,01033034,ntthien@uneti.edu.v
+271,Vũ Thị Nga,-1,GV,f,,,12-03-86,vie,01033035,vtnga@uneti.edu.v
+272,Phan Thị Minh Tâm,-1,GV,f,,,24-08-94,vie,01033037,ptmtam@uneti.edu.v
+273,Đào Thị Thu Hương,-1,GV,f,,,19-10-88,vie,01033038,dtthuong038@uneti.edu.v
+274,Dương Phương Vân,-1,GV,f,,,01-09-93,vie,01033039,dpvan@uneti.edu.v
+275,Nguyễn Thị Phương Ngọc,-1,GV,f,,,23-05-01,vie,01033044,ntpngoc@uneti.edu.v
+276,Nguyễn Diệp Hồng,-1,GV,f,,,12-10-73,vie,01033045,ndhong@uneti.edu.v
+277,Nguyễn Thị Kim Anh,-1,GV,f,,,12-11-84,vie,01033046,ntkanh@uneti.edu.v
+278,Nguyễn Thị Hồng Hà,-1,TS,f,,,01-12-73,vie,01033047,nthha@uneti.edu.v
+279,Lò Thị Lan,-1,GV,f,,,02-12-92,vie,01033048,ltlan@uneti.edu.v
+280,Vương Thị Phương Thảo,-1,GV,f,,,28-05-80,vie,01033049,vtthaop@uneti.edu.v
+281,Nguyễn Thị Diệu Hà,-1,TS,f,,,26-08-82,vie,01033050,vtthaop@uneti.edu.v
+282,Đoàn Kim Thêu,-1,TS,f,,,16-09-82,vie,01007010,dktheu@uneti.edu.v
+283,Mai Thị Lụa,-1,GV,f,,,22-08-80,vie,02031002,mtlua@uneti.edu.v
+284,Hoàng Thị Chuyên,-1,GV,f,,,16-05-80,vie,01007009,htchuyen@uneti.edu.v
+285,Trần Thị Minh Hải,-1,GV,f,,,03-06-89,vie,01007020,ttmhai@uneti.edu.v
+286,Nguyễn Thị Minh Hương,-1,GV,f,,,13-06-79,vie,01007007,minhhuong@uneti.edu.v
+287,Nguyễn Thị Thu Hương,-1,GV,f,,,02-03-85,vie,01008008,huongntt@uneti.edu.v
+288,Đỗ Thị Thu Hương,-1,GV,f,,,02-10-89,vie,01007018,dtthuong@uneti.edu.v
+289,Lê Thị Huyền,-1,GV,f,,,19-11-87,vie,01007019,lthuyen@uneti.edu.v
+290,Nguyễn Phương Linh,-1,GV,f,,,01-08-83,vie,01007014,nplinh@uneti.edu.v
+291,Trần Thị Kim Phượng,-1,GV,f,,,30-09-83,vie,01007016,ttkphuong@uneti.edu.v
+292,Vũ Thị Kim Thanh,-1,GV,f,,,20-06-76,vie,01007005,vtkthanh@uneti.edu.v
+293,Nguyễn Thị Thu,-1,GV,f,,,07-05-82,vie,01007013,ntthu@uneti.edu.v
+294,Nguyễn Thị Thu Trang,-1,GV,f,,,07-04-86,vie,01008017,trangntt@uneti.edu.v
+295,Nguyễn Thị Lan Anh,-1,GV,f,,,30-10-81,vie,02010006,anhntl@uneti.edu.v
+296,Nguyễn Thị Giang,-1,GV,f,,,15-10-89,vie,02031015,giangnt@uneti.edu.v
+297,Trần Thị Hằng,-1,GV,f,,,15-04-89,vie,02031014,hangtt@uneti.edu.vn
+298,Phan Thị Minh Phương,-1,GV,f,,,01-03-81,vie,02010004,ptmphuong@uneti.edu.v
+299,Đặng Thị Thu Phương,-1,GV,f,,,13-11-89,vie,02031012,dttphuong@uneti.edu.v
+300,Phạm Hương Thanh,-1,GV,f,,,31-10-82,vie,02010013,phthanh@uneti.edu.v
+301,Trần Thị Thanh Thuỷ,-1,GV,f,,,23-01-85,vie,02010008,tttthuy@uneti.edu.v
+302,Trần Thị Vân,-1,GV,f,,,12-02-82,vie,02031004,ttvan@uneti.edu.v
+303,Phạm Thanh Thảo,-1,GV,f,,,07-02-85,vie,01007029,ptthao@uneti.edu.v
+304,Nông Mai Thanh,-1,GV,f,,,25-02-87,vie,01007028,nmthanh@uneti.edu.v
+305,Lê Thị Ánh,-1,GV,f,,,02-02-89,vie,02031017,ltanh@uneti.edu.v
+306,Đan Thu Vân,-1,GV,f,,,01-04-89,vie,01007033,dtvan@uneti.edu.v
+307,Trần Thùy Linh,-1,GV,f,,,12-11-89,vie,01007026,ttlinh@uneti.edu.v
+308,Nguyễn Thị Nguyệt Minh,-1,GV,f,,,10-08-90,vie,01007027,ntnminh@uneti.edu.v
+309,Bùi Thị Xuân,-1,GV,f,,,16-03-87,vie,02031020,btxuan@uneti.edu.v
+310,Đỗ Thị Hường,-1,GV,f,,,26-05-81,vie,02031009,dthuong@uneti.edu.v
+311,Nguyễn Thị Chi,-1,TS,f,,,20-01-73,vie,01007006,ntchi@uneti.edu.v
+312,Nguyễn Thị Phượng,-1,TS,f,,,14-05-80,vie,01034006,phuongnt@uneti.edu.v
+313,Nguyễn Thị Huyền,-1,GV,f,,,01-04-87,vie,01007022,nthuyen@uneti.edu.v
+314,Đỗ Thu Trang,-1,GV,f,,,19-11-82,vie,02010005,dothutrang@uneti.edu.v
+315,Nguyễn Thị Thanh Hoa,-1,GV,f,,,04-05-87,vie,01007034,ntthoa.qtkd@uneti.edu.v
+316,Nguyễn Thị Hương,-1,GV,f,,,05-08-87,vie,02031019,nthuong.qtkd@uneti.edu.v
+317,Nguyễn Thúy Hải,-1,GV,f,,,30-10-88,vie,01007036,ntthai@uneti.edu.v
+318,Nguyễn Thị Trang,-1,GV,f,,,10-04-89,vie,01007031,nttrang@uneti.edu.v
+319,Nguyễn Thị Hạnh,-1,GV,f,,,12-05-89,vie,01007023,nthanh.qtkd@uneti.edu.v
+320,Nguyễn Thị Hoài,-1,GV,f,,,07-08-80,vie,02010001,nthoai@uneti.edu.v
+321,Phùng Thị Lan Hương,-1,TS,f,,,05-03-75,vie,01008001,plhuong@uneti.edu.v
+322,Vũ Thị Thục Oanh,-1,TS,f,,,11-10-82,vie,02032002,vttoanh@uneti.edu.v
+323,Đặng Hương Giang,-1,TS,f,,,19-02-82,vie,01008002,dhgiang@uneti.edu.v
+324,Đỗ Thị Kim Thu,-1,GV,f,,,28-10-84,vie,01008010,dtkthu@uneti.edu.v
+325,Phạm Thị Phương Thảo,-1,GV,f,,,28-06-81,vie,01008015,ptpthao@uneti.edu.v
+326,Nguyễn Thị Hệ,-1,GV,f,,,05-10-81,vie,01008014,nthe@uneti.edu.v
+327,Trần Thanh Phúc,-1,GV,f,,,13-02-85,vie,02032003,ttphuc@uneti.edu.v
+328,Phạm Thị Diệu Phúc,-1,GV,f,,,18-04-87,vie,02032004,ptdphuc@uneti.edu.v
+329,Trần Thị Thùy Linh,-1,GV,f,,,23-02-88,vie,01007017,tttlinh@uneti.edu.v
+330,Trương Ngọc Chân,-1,GV,f,,,10-11-88,vie,01008022,tnchan@uneti.edu.v
+331,Đỗ Mỹ Dung,-1,GV,f,,,09-05-87,vie,01008018,dmdung@uneti.edu.v
+332,Đỗ Thị Thu Quỳnh,-1,GV,f,,,03-02-89,vie,01008023,dttquynh@uneti.edu.v
+333,Nguyễn Hồng Yến,-1,GV,f,,,10-10-84,vie,02032005,nhyen@uneti.edu.v
+334,Vũ Thanh Hương,-1,GV,f,,,25-10-83,vie,01008030,vthuong@uneti.edu.v
+335,Ngô Thanh Loan,-1,GV,f,,,12-08-86,vie,01008031,ntloan@uneti.edu.v
+336,Nguyễn Thị Thanh Thúy,-1,GV,f,,,27-01-89,vie,02032010,nttthuy.tcnh@uneti.edu.v
+337,Lý Thị Thúy,-1,GV,f,,,09-05-89,vie,01008038,ltthuy.tcnh@uneti.edu.v
+338,Vũ Thị Anh,-1,GV,f,,,10-08-89,vie,01008025,vtanh@uneti.edu.v
+339,Vũ Thị Bích Hảo,-1,GV,f,,,17-08-89,vie,02032007,vtbhao@uneti.edu.v
+340,Đoàn Thị Nguyệt,-1,GV,f,,,03-09-89,vie,01008035,dtnguyet@uneti.edu.v
+341,Trần Thị Hoa,-1,GV,f,,,01-11-89,vie,01008029,tthoa@uneti.edu.v
+342,Đoàn Phương Ngân,-1,GV,f,,,09-11-89,vie,02032008,dpngan@uneti.edu.v
+343,Đặng Thu Trang,-1,GV,f,,,15-11-89,vie,01008042,dttrang.tcnh@uneti.edu.v
+344,Nguyễn Thị Kim Thoa,-1,GV,f,,,26-12-89,vie,01008037,ntkthoa@uneti.edu.v
+345,Nguyễn Thị Bích Ngọc,-1,GV,f,,,14-01-90,vie,01008034,ntbngoc@uneti.edu.v
+346,Vũ Thị Kim Thanh,-1,GV,f,,,11-05-90,vie,02032009,vtkthanh@uneti.edu.v
+347,Nguyễn Thị Quỳnh Trang,-1,GV,f,,,09-08-90,vie,01008040,ntqtrang@uneti.edu.v
+348,Trần Thị Ngọc Anh,-1,GV,f,,,16-08-90,vie,01008027,ttnanh@uneti.edu.v
+349,Hoàng Thúy Phương,-1,GV,f,,,23-08-90,vie,01008036,htphuong.tcnh@uneti.edu.v
+350,Nguyễn Thị Mai,-1,GV,f,,,24-08-90,vie,01008033,nguyenmai.tcnh@uneti.edu.v
+351,Nguyễn Thị Tình,-1,GV,f,,,06-10-90,vie,01008039,nttinh@uneti.edu.v
+352,Phạm Thị Thu Hà,-1,GV,f,,,23-10-90,vie,01008046,pttha.tcnh@uneti.edu.v
+353,Lê Minh Trang,-1,GV,f,,,27-10-90,vie,01008041,lmtrang@uneti.edu.v
+354,Nguyễn Ngọc Anh,-1,GV,f,,,06-12-90,vie,01008026,nnanh@uneti.edu.v
+355,Phạm Thị Ngọc Mai,-1,GV,f,,,14-12-90,vie,01008032,ptnmai@uneti.edu.v
+356,Trương Thị Thảo,-1,GV,f,,,23-12-89,vie,01008044,ttthao@uneti.edu.v
+357,Lê Phương Hoa,-1,GV,f,,,24-05-91,vie,01008090,lphoa@uneti.edu.v
+358,Đường Thị Thanh Hải,-1,TS,f,,,21-11-73,vie,01008005,dtthai@uneti.edu.v
+359,Dương Thị Phương,-1,VC,f,,,06-06-88,vie,02019007,duongphuong@uneti.edu.v
+360,Đào Thu Huyền,-1,VC,f,,,26-07-85,vie,01043008,dthuyen@uneti.edu.v
+361,Chu Thị Mận,-1,VC,f,,,13-05-91,vie,01043015,ctman@uneti.edu.v
+362,Trần Thị Nhuần,-1,GV,f,,,19-09-82,vie,02019003,ttnhuan@uneti.edu.v
+363,Nguyễn Thị Hồng Sâm,-1,GV,f,,,16-02-74,vie,01015002,nthsam@uneti.edu.v
+364,Vũ Thu Uyên,-1,GV,f,,,15-03-83,vie,01027015,vtuyen@uneti.edu.v
+365,Nguyễn Thị Thuỳ Linh,-1,VC,f,,,20-11-87,vie,02039008,nttlinh@uneti.edu.v
+366,Phí Thị Kiều Liên,-1,VC,f,,,25-08-73,vie,01015014,ptklien@uneti.edu.v
+367,Hồ Mai Hoa,-1,VC,f,,,29-11-74,vie,02039003,hmhoa@uneti.edu.v
+368,Nguyễn Thị Thu Hằng,-1,VC,f,,,29-06-69,vie,01042001,ntthanghc@uneti.edu.v
+369,Trần Hoàng Yến,-1,GV,f,,,13-09-68,vie,02018006,thyen@uneti.edu.v
+370,Phạm Thị Hương Giang,-1,VC,f,,,06-07-82,vie,02018007,pthgiang@uneti.edu.v
+371,Vũ Thị Thanh Huyền,-1,VC,f,,,22-07-91,vie,02018040,vtthuyen.hcqt@uneti.edu.v
+372,Đỗ Thị Minh Hạnh,-1,TS,f,,,04-08-81,vie,01001002,dtmhanh@uneti.edu.v
+373,Trần Thị Hà,-1,GV,f,,,30-09-80,vie,01041004,ttha@uneti.edu.v
+374,Trương Thị Thuỷ,-1,GV,f,,,02-12-71,vie,01041003,ttthuy@uneti.edu.v
+375,Đoàn Thị Diệp Uyển,-1,GV,f,,,01-06-77,vie,01041002,dtduyen@uneti.edu.v
+376,Nguyễn Thị Thu Hường,-1,GV,f,,,07-03-74,vie,02017002,thuhuong@uneti.edu.v
+377,Phạm Thị Minh Hoa,-1,GV,f,,,05-07-70,vie,01014001,ptmhoa@uneti.edu.v
+378,Đặng Thị Phượng,-1,VC,f,,,10-10-84,vie,02039012,dangphuong@uneti.edu.v
+379,Trần Thị Thanh Hương,-1,GV,f,,,23-11-75,vie,01008006,ttthuong@uneti.edu.v
+380,Lưu Thị Mai Lan,-1,GV,f,,,20-07-79,vie,01015007,ltmlan@uneti.edu.v
+381,Vũ Thị Thu Huyền,-1,GV,f,,,28-02-73,vie,02003005,vtthuyen@uneti.edu.v
+382,Phan Thị Thái,-1,GV,f,,,10-02-81,vie,01014003,ptthai@uneti.edu.v
+383,Phạm Ngọc Anh,-1,VC,f,,,21-01-88,vie,01014006,ngocanh@uneti.edu.v
+384,Vũ Thị Bích Ngọc,-1,VC,f,,,09-09-88,vie,02019006,vtbngoc@uneti.edu.v
+385,Trần Thị Kim Liên,-1,GV,f,,,07-09-75,vie,01016002,ttklien@uneti.edu.v
+386,Hoàng Thị Huyền,-1,TS,f,,,24-08-87,vie,01006024,hthuyen@uneti.edu.v
+387,Nguyễn Thị Hương Giang,-1,VC,f,,,31-01-86,vie,02040005,nthgiang@uneti.edu.v
+388,Lê Thị Hồng Hạnh,-1,GV,f,,,05-08-74,vie,01016003,lthhanh@uneti.edu.v
+389,Nguyễn Thị Thủy,-1,VC,f,,,04-10-75,vie,01016004,ntthuytckt@uneti.edu.v
+390,Phạm Thị Lan Hương,-1,VC,f,,,04-11-81,vie,01016005,ptlhuong@uneti.edu.v
+391,Nguyễn Thị Lan,-1,VC,f,,,21-05-82,vie,01016006,ntlan@uneti.edu.v
+392,Nguyễn Ánh Hồng,-1,GV,f,,,24-02-90,vie,01006044,nahong@uneti.edu.v
+393,Nguyễn Thị Cúc,-1,GV,f,,,28-01-90,vie,01006057,ntcuc@uneti.edu.v
+394,Phạm Thị Minh Hương,-1,VC,f,,,15-10-91,vie,01021004,ptmhuong@uneti.edu.v
+395,Đặng Thị Thu Hiền,-1,GV,f,,,09-12-88,vie,02036010,hiendtt@uneti.edu.v
+396,Nguyễn Phương Thu,-1,GV,f,,,01-10-83,vie,02039005,npthu@uneti.edu.v
+397,Trần Thị Hoàng Tú,-1,VC,f,,,29-12-83,vie,02039016,tthtu@uneti.edu.v
+398,Nguyễn Thị Diệu Hiền,-1,GV,f,,,15-10-83,vie,02036005,ntdhien@uneti.edu.v
+399,Phạm Thanh Loan,-1,VC,f,,,23-06-87,vie,02030024,ptloan@uneti.edu.v
+400,Vũ Mai Anh,-1,VC,f,,,23-10-98,vie,01020003,vmanh@uneti.edu.v
+401,Phan Thị Thanh Thủy,-1,GV,f,,,24-06-69,vie,01043005,pttthuy@uneti.edu.v
+402,Nguyễn Thị Hải Yến,-1,VC,f,,,18-08-80,vie,02018036,nthyen@uneti.edu.v
+403,Phạm Thị Tuyết,-1,GV,f,,,20-10-86,vie,02037010,pttuyet@uneti.edu.v
+404,Trần Thị Mỹ Linh,-1,GV,f,,,15-12-82,vie,01033010,tmlinh@uneti.edu.v
+405,Trần Kim Yến,-1,GV,f,,,11-04-68,vie,01021002,tkyen@uneti.edu.v
+406,Nguyễn Thị Ngọc,-1,GV,f,,,14-09-82,vie,01021003,ntngoc.ttnnth@uneti.edu.vn
+407,Trần Thị Gấm,-1,VC,f,,,04-10-74,vie,02045002,ttgam@uneti.edu.v
+408,Nguyễn Thị Hà,-1,TS,f,,,03-09-76,vie,01015016,ntha@uneti.edu.v
+409,Phan Thị Thư,-1,VC,f,,,05-02-88,vie,01042011,ptthu87@uneti.edu.v
+410,Bùi Thị Thúy Hằng,-1,VC,f,,,17-11-90,vie,01015022,btthang.tttv@uneti.edu.v
+411,Đỗ Thị Vân Hoài,-1,VC,f,,,17-12-85,vie,02039014,dtvhoai@uneti.edu.v
+412,Trần Thị Thu Hoài,-1,VC,f,,,03-02-95,vie,01059001,ttthoai@uneti.edu.v
+413,Mai Thị Trang,-1,VC,f,,,15-05-95,vie,01059002,mttrang@uneti.edu.v
+414,Phạm Thị Lụa,-1,TS,f,,,01-02-78,vie,01006003,ptlua@uneti.edu.v
+415,Trần Hoàng Long,-1,TS,m,,,06-08-75,vie,01049005,thlong@uneti.edu.v
+416,Trần Đức Cân,-1,TS,m,,,25-06-63,vie,02050001,tdcan@uneti.edu.v
+417,Nguyễn Ngọc Khương,-1,TS,m,,,21-09-64,vie,01014002,nnkhuong@uneti.edu.v
+418,Nguyễn Hữu Quang,-1,GS,m,,,25-05-80,vie,01029003,nhquang@uneti.edu.v
+419,Nguyễn Văn Trúc,-1,GV,m,,,27-06-81,vie,02005003,nvtruc@uneti.edu.v
+420,Lê Văn Tiến,-1,GV,m,,,04-01-65,vie,01029006,lvtien@uneti.edu.v
+421,Vũ Hoài Anh,-1,GV,m,,,12-08-82,vie,01029014,hoaianh@uneti.edu.v
+422,Lê Huỳnh Đức,-1,GV,m,,,27-05-96,vie,01029035,lhduc@uneti.edu.v
+423,Trần Ánh Viên,-1,GV,m,,,02-09-79,vie,01029037,tavien@uneti.edu.v
+424,Phạm Vũ Dũng,-1,TS,m,,,25-07-65,vie,02039002,pvdung@uneti.edu.v
+425,Nguyễn Thành Huân,-1,TS,m,,,11-03-80,vie,02005009,nthuan@uneti.edu.v
+426,Dương Hải Nam,-1,GV,m,,,15-04-69,vie,01029001,dhnam@uneti.edu.v
+427,Nguyễn Văn Mùi,-1,TS,m,,,10-02-80,vie,01029009,nvmui@uneti.edu.v
+428,Đặng Văn Hoà,-1,GV,m,,,06-10-79,vie,01029005,dvhoa@uneti.edu.v
+429,Triệu Quý Huy,-1,TS,m,,,05-05-83,vie,01029029,tqhuy@uneti.edu.v
+430,Phạm Trung Thiên,-1,TS,m,,,08-08-91,vie,01029027,ptthien.ck@uneti.edu.v
+431,Nguyễn Tiến Dũng,-1,GV,m,,,06-03-83,vie,02005005,dungnt@uneti.edu.v
+432,Trần Văn Mạnh,-1,GV,m,,,02-02-86,vie,02005007,tvmanh@uneti.edu.v
+433,Nguyễn Mạnh Hà,-1,GV,m,,,21-10-92,vie,01029026,nmha.ck@uneti.edu.v
+434,Trịnh Kiều Tuấn,-1,GV,m,,,28-06-80,vie,01029002,tktuan@uneti.edu.v
+435,Trương Minh Đức,-1,TS,m,,,08-06-82,vie,01029008,tmduc@uneti.edu.v
+436,Vũ Đức Quang,-1,GV,m,,,21-05-82,vie,01029007,vuquang@uneti.edu.v
+437,Trần Vũ Lâm,-1,GV,m,,,01-11-72,vie,02025008,tvlam@uneti.edu.v
+438,Nguyễn Tuấn Hưng,-1,GV,m,,,20-03-80,vie,01029016,nthung@uneti.edu.v
+439,Nguyễn Thọ Sơn,-1,GV,m,,,10-02-85,vie,01029017,ntson@uneti.edu.v
+440,Lê Như Trang,-1,TS,m,,,15-05-80,vie,01029018,lntrang@uneti.edu.v
+441,Trần Văn Hoàng,-1,TS,m,,,28-02-81,vie,01029032,tvhoang@uneti.edu.v
+442,Phạm Văn Liệu,-1,TS,m,,,30-03-76,vie,01029030,pvlieu@uneti.edu.v
+443,Bùi Ánh Hưng,-1,GV,m,,,07-11-76,vie,02005004,bahung@uneti.edu.v
+444,Trần Trọng Thể,-1,GV,m,,,06-05-83,vie,02005010,tnthe@uneti.edu.v
+445,Nguyễn Ngọc Sang,-1,GV,m,,,30-03-83,vie,01029012,nnsang@uneti.edu.v
+446,Đinh Văn Phương,-1,GV,m,,,17-03-83,vie,01029034,dvphuong@uneti.edu.v
+447,Nguyễn Tường Vi,-1,TS,m,,,19-11-78,vie,01029036,ntvi@uneti.edu.v
+448,Nguyễn Thanh Bình,-1,GV,m,,,16-04-83,vie,02005019,ntbinh@uneti.edu.v
+449,Vũ Văn Thi,-1,GV,m,,,18-03-97,vie,01029038,vvthi@uneti.edu.v
+450,Đỗ Văn Tỉnh,-1,GV,m,,,24-06-00,vie,01029039,dvtinh.ck@uneti.edu.v
+451,Nguyễn Ngọc Thể,-1,GV,m,,,30-05-00,vie,01029040,nnthe@uneti.edu.v
+452,Đặng Huy Hoàn,-1,GV,m,,,30-05-00,vie,01029044,dhhoan@uneti.edu.v
+453,Nguyễn Hoàng Chiến,-1,GV,m,,,19-05-78,vie,01027014,nhchien@uneti.edu.v
+454,Cao Ngọc Ánh,-1,GV,m,,,13-10-81,vie,02003009,cnanh@uneti.edu.v
+455,Mai Mạnh Trừng,-1,GV,m,,,29-12-78,vie,01027008,mmtrung@uneti.edu.v
+456,Vũ Văn Đốc,-1,GV,m,,,24-07-76,vie,02003004,vvdoc@uneti.edu.v
+457,Đinh Trường Ninh,-1,GV,m,,,20-08-83,vie,01004009,dtninh@uneti.edu.v
+458,Đặng Văn Giang,-1,GV,m,,,10-05-83,vie,01027019,dvgiang@uneti.edu.v
+459,Đường Tuấn Hải,-1,GV,m,,,19-04-77,vie,01027013,dthai@uneti.edu.v
+460,Trần Quốc Hoàn,-1,GV,m,,,07-08-87,vie,01027006,tqhoan@uneti.edu.v
+461,Nguyễn Thế Mạnh,-1,GV,m,,,18-09-94,vie,01027034,ntmanh.cntt@uneti.edu.v
+462,Trần Thanh Đại,-1,GV,m,,,18-06-83,vie,02003010,ttdai@uneti.edu.v
+463,Bùi Văn Tân,-1,TS,m,,,12-08-83,vie,02003008,bvtan@uneti.edu.v
+464,Phạm Minh Thái,-1,GV,m,,,21-01-84,vie,02003011,pmthai@uneti.edu.v
+465,Đào Thuỵ Ánh,-1,GV,m,,,26-04-77,vie,01027009,dtanh@uneti.edu.v
+466,Trần Quốc Toản,-1,GV,m,,,30-09-86,vie,02003012,tqtoan@uneti.edu.v
+467,Vũ Anh Tuấn,-1,GV,m,,,24-08-80,vie,01027035,vatuan@uneti.edu.v
+468,Bùi Văn Công,-1,GV,m,,,02-01-83,vie,01027038,bvcong@uneti.edu.v
+469,Ngô Quang Trí,-1,GV,m,,,07-12-95,vie,01027039,nqtri@uneti.edu.v
+470,Dương Đình Thiệu,-1,GV,m,,,05-08-00,vie,01027040,ddthieu@uneti.edu.v
+471,Đoàn Tuấn Nam,-1,GV,m,,,22-03-73,vie,02003028,dtnam@uneti.edu.v
+472,Nguyễn Quang Hưng,-1,GV,m,,,12-11-99,vie,01027041,nqhung.cntt@uneti.edu.v
+473,Phạm Văn Dương,-1,GV,m,,,10-06-91,vie,01027044,pvduong@uneti.edu.v
+474,Hồ Tuấn Anh,-1,GS,m,,,25-02-69,vie,01026005,htanh@uneti.edu.v
+475,Phạm Quang Tứ,-1,GV,m,,,07-10-77,vie,02002003,pqtu@uneti.edu.v
+476,Đào Anh Tuấn,-1,GV,m,,,17-06-68,vie,02025002,datuan@uneti.edu.v
+477,Vũ Dương Quang,-1,GV,m,,,08-06-77,vie,02025009,vdquang@uneti.edu.v
+478,Nguyễn Quốc Toản,-1,TS,m,,,10-05-69,vie,02025006,nqtoan@uneti.edu.v
+479,Nguyễn Gia Phong,-1,GV,m,,,24-01-74,vie,01043002,ngphong@uneti.edu.v
+480,Nguyễn Thanh Nam,-1,GV,m,,,21-11-77,vie,01001006,ntnam@uneti.edu.v
+481,Bùi Quang Lập,-1,GV,m,,,08-11-81,vie,01001015,bqlap@uneti.edu.v
+482,Lê Xuân Thắng,-1,GV,m,,,27-10-68,vie,02025003,lxthang@uneti.edu.v
+483,Trần Nguyên Lân,-1,GV,m,,,07-07-82,vie,02025011,tnlan@uneti.edu.v
+484,Phương Công Huấn,-1,GV,m,,,21-12-92,vie,01043012,pchuan.dm@uneti.edu.v
+485,Cao Minh Tiến,-1,GV,m,,,29-11-84,vie,01001031,cmtien@uneti.edu.v
+486,Trần Thụy Liên,-1,GV,m,,,07-11-71,vie,02025022,ttlien@uneti.edu.v
+487,Trần Ngọc Sơn,-1,GV,m,,,23-08-77,vie,02028003,tnson@uneti.edu.v
+488,Nguyễn Đức Điển,-1,GV,m,,,20-12-89,vie,02028013,nddien@uneti.edu.v
+489,Trần Đông,-1,GV,m,,,24-10-80,vie,02028010,trandong@uneti.edu.v
+490,Trần Đức Chuyển,-1,TS,m,,,30-12-77,vie,02028005,tdchuyen@uneti.edu.v
+491,Mai Văn Duy,-1,GV,m,,,27-10-89,vie,01004014,mvduy@uneti.edu.v
+492,Hà Huy Giáp,-1,GV,m,,,28-10-84,vie,01004010,hhgiap@uneti.edu.v
+493,Đỗ Quang Hiệp,-1,TS,m,,,25-05-78,vie,01004004,dqhiep@uneti.edu.v
+494,Phạm Ngọc Sâm,-1,GV,m,,,25-01-77,vie,01004002,pnsam@uneti.edu.v
+495,Lê Văn Ánh,-1,GV,m,,,10-08-76,vie,02028008,lvanh@uneti.edu.v
+496,Hoàng Đình Cơ,-1,GV,m,,,11-07-74,vie,02028002,hdco@uneti.edu.v
+497,Nguyễn Cao Cường,-1,GV,m,,,20-01-80,vie,02028017,nccuong@uneti.edu.v
+498,Doãn Văn Hoá,-1,GV,m,,,09-06-84,vie,02028009,rvhoa@uneti.edu.v
+499,Phạm Văn Huy,-1,GV,m,,,06-11-81,vie,02028007,pvduy@uneti.edu.v
+500,Phạm Văn Minh,-1,GV,m,,,20-04-89,vie,02028012,pvminh@uneti.edu.v
+501,Nguyễn Đức Dương,-1,GV,m,,,21-07-86,vie,01004024,ndduong86.ddt@uneti.edu.v
+502,Trần Quốc Đạt,-1,GV,m,,,05-12-89,vie,01004032,tqdat@uneti.edu.v
+503,Nguyễn Minh Đông,-1,GV,m,,,17-12-89,vie,01004023,nmdong@uneti.edu.v
+504,Vũ Viết Thông,-1,GV,m,,,03-09-90,vie,02028024,vtvthong@uneti.edu.v
+505,Mai Văn Tào,-1,GV,m,,,21-01-89,vie,02028059,mvtao@uneti.edu.v
+506,Vũ Văn Dũng,-1,GV,m,,,14-08-94,vie,01004063,vvdung@uneti.edu.v
+507,Đặng Quốc Du,-1,GV,m,,,27-12-85,vie,01004066,dqdu@uneti.edu.v
+508,Nguyễn Đăng Tú,-1,GV,m,,,12-12-95,vie,01004069,ndtu@uneti.edu.v
+509,Nguyễn Văn Vụ,-1,TS,m,,,23-07-83,vie,02028060,nvvu@uneti.edu.v

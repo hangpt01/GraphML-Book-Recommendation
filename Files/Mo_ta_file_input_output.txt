@@ -1,0 +1,24 @@
+result.json : Dữ liệu API trả ra sau khi đánh điểm và tính toán
+User_Infomation.xlsx : File thông tin của người dùng
+
+Input :
+
++ all_patron.csv : dữ liệu thông tin người dùng
++ Allbibs.mrk : Dữ liệu thông tin tài liệu 
++ checkout.csv : Dữ liệu mượn tài liệu sách giấy truyền thống
++ circ_trans.csv : Dữ liệu mượn sách theo bib
++ item_circ_history.csv : Dữ liệu lịch sửa mượn sách giấy của toàn bộ hệ thống 
++ statistics_digital.csv : Dữ liệu tìm kiếm, xem trực tuyến, tải tài liệu và mượn tài liệu điện tử
++ item_digital.csv : Dữ liệu mô tả tài liệu điện tử
++ eperson.csv : Dữ liệu bạn đọc trên phần mềm quản lý tài liệu điện tử dùng để mapping với statistics_digital.csv
+
+Output : Dữ liệu để đẩy vào DB
+
++ bib_dataset.csv : Dữ liệu thông tin mô tả sách
++ bib_map.csv : Dữ liệu mapping giữa thông tin mô tả sách ( Bib ) với sách giấy ( Item )
++ patron_dataset.csv : Dữ liệu người dùng
++ dataset.csv : Dữ liệu mapping giữ ID người dùng với ID bib và đánh điểm
+
+
+
+=> Dựa trên các dữ liệu đầu vào để đánh điểm và tính toán đưa ra gợi ý các tài liệu sách phù hợp 
